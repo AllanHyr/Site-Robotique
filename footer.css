@@ -1,6 +1,6 @@
 footer {
     margin: 0 auto;
-    background:rgb(0, 85, 164);
+    background: #262B63;
 }
 
 footer > div.container {
@@ -47,7 +47,7 @@ a.social {
 }
 
 a.social:hover {
-    background-color: #ffa600;
+    background-color: #FDB815;
     color: white;
 }
 

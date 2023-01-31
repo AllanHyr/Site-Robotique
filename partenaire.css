@@ -1,0 +1,47 @@
+.titrePart  {
+    display: flex;
+    height: 10em;
+    flex-flow: row;
+    justify-content: center;
+}
+.presPart   {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+.textPart   {
+    padding: 2em;
+    width: 40%;
+}
+.imagePart  {
+    width: 40%;
+    background: #FDB815;
+}
+hr  {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+.imageSpons {
+    display: flex;
+    margin-bottom: 3em;
+    flex-flow: row;
+    justify-content: space-around;
+}
+.logoSpons  {
+    width: 25%;
+    height: 10em;
+    background: #FDB815;
+}
+p {
+    font-family: 'Public Sans', sans-serif;
+}
+h1  {
+    font-family: 'Roboto', sans-serif;
+}
+.titreH {
+    padding-top: 1.2em;
+}
+.barrePart  {
+    margin-top: 5em;
+    margin-bottom: 1em;
+}
