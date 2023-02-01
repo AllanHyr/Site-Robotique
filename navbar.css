@@ -15,7 +15,7 @@
 }
 
 .navbar a {
-    color: white;
+    color: inherit;
     text-decoration: none;
 }
 
@@ -37,8 +37,8 @@
 .navbar .menu-dropdown .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgb(128, 128, 128);
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background: #003478;
+    border: solid 0.5px #fff;
 }
 
 .navbar .menu-dropdown .dropdown-content a {
@@ -56,7 +56,7 @@
 }
 
 .navbar .menu-dropdown .dropdown-content a:hover {
-    background-color: rgb(158, 158, 158);
+    background: #FDB815;
 }
 
 .navbar img {
@@ -78,3 +78,4 @@
 .navbar .nav-links ul li a {
     padding: 10px;
 }
+
