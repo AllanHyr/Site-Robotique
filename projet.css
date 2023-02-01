@@ -1,0 +1,44 @@
+.titreProj  {
+    display: flex;
+    height: 10em;
+    flex-flow: row;
+    justify-content: center;
+}
+.titreH {
+    padding-top: 1.2em;
+}
+p {
+    font-family: 'Public Sans', sans-serif;
+}
+h1  {
+    font-family: 'Roboto', sans-serif;
+}
+.galerieBout {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #262B63;
+    font-family: 'Public Sans', sans-serif;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #FDB815;
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+.galerieBout:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+.imageProj  {
+    width: 600px;
+    height: 300px;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    float: right;
+    background: #FDB815;
+}
+.contProj   {
+    padding-right: 5em;
+    padding-left: 5em;
+    padding-bottom: 5em;
+}
