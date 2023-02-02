@@ -13,25 +13,9 @@ p {
 h1  {
     font-family: 'Roboto', sans-serif;
 }
-.galerieBout {
-    border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    color: #262B63;
-    font-family: 'Public Sans', sans-serif;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: #FDB815;
-    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-}
-.galerieBout:active {
-    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
-}
 .imageProj  {
-    width: 600px;
-    height: 300px;
+    width: 60em;
+    height: 40em;
     margin-left: 2em;
     margin-bottom: 1em;
     float: right;
