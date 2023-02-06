@@ -14,12 +14,10 @@ h1  {
     font-family: 'Roboto', sans-serif;
 }
 .imageProj  {
-    width: 60em;
-    height: 40em;
+    max-width: 50%;
     margin-left: 2em;
     margin-bottom: 1em;
     float: right;
-    background: #FDB815;
 }
 .contProj   {
     padding-right: 5em;
