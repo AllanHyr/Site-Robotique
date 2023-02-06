@@ -1,61 +1,71 @@
-body    {
+body {
     display: flex;
     margin: 0;
     width: auto;
     flex-flow: column wrap;
     align-items: space-around;
 }
-main    {
+
+main {
     display: flex;
     flex-flow: column wrap;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
+
 .box {
     width: 80%;
     margin: auto;
     display: flex;
 }
+
 .logo {
-    width:10%;
+    width: 10%;
     padding: 2em;
     text-align: center;
 }
-.navigation   {
-    width:70%;
+
+.navigation {
+    width: 70%;
     padding: 2em;
     text-align: end;
 }
+
 .navi {
     margin-right: 5em;
     font-family: 'Public Sans', sans-serif;
     color: white;
     font-weight: bolder;
 }
-.titre  {
+
+.titre {
     height: 15em;
     display: flex;
     flex-flow: row;
     justify-content: center;
     text-align: center;
 }
-h1  {
+
+h1 {
     padding-top: 2.5em;
     font-family: 'Roboto', sans-serif;
 }
+
 .presentation {
     display: flex;
     height: auto;
     width: 100%;
     flex-flow: row nowrap;
 }
-.news   {
+
+.news {
     display: flex;
     height: auto;
     justify-content: space-between;
 }
-.pres   {
+
+.pres {
     display: flex;
     flex-flow: column;
     margin-top: 1%;
@@ -64,12 +74,14 @@ h1  {
     background: #C5C6C6;
     justify-content: right;
 }
-.imagePres  {
+
+.imagePres {
     width: 50%;
     margin-bottom: 1%;
     background-color: #FDB815;
 }
-.text    {
+
+.text {
     display: flex;
     flex-flow: column;
     width: 40%;
@@ -77,32 +89,39 @@ h1  {
     background: #C5C6C6;
     justify-content: center;
 }
+
 .imageProj {
     width: 40%;
     background: #FDB815;
 }
+
 p {
     font-family: 'Public Sans', sans-serif;
 }
-h2  {
+
+h2 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
-hr  {
+
+hr {
     margin-top: 5em;
     margin-bottom: 5em;
 }
+
 .projet {
     display: flex;
     margin-bottom: 5em;
     flex-flow: row nowrap;
     justify-content: space-around;
 }
-.textProj   {
+
+.textProj {
     padding-right: 3em;
     padding-left: 3em;
 }
-.textIntro  {
+
+.textIntro {
     padding-left: 8.8em;
     padding-right: 8.8em;
 }
