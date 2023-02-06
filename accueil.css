@@ -1,4 +1,4 @@
-.accueil    {
+.accueil {
     display: flex;
     margin: 0;
     width: auto;
@@ -6,7 +6,8 @@
     align-items: space-around;
     background: #E7F0FF;
 }
-.accueilCont    {
+
+.accueilCont {
     display: flex;
     flex-flow: column wrap;
     width: 100%;
@@ -23,10 +24,12 @@
     background-image:linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(assets/banniererobotique.avif);
     background-size: 100%;
 }
-.titreH  {
+
+.titreH {
     font-size: 9em;
     font-family: 'Roboto', sans-serif;
 }
+
 .presentation {
     display: flex;
     height: auto;
@@ -34,12 +37,14 @@
     flex-flow: row;
     justify-content: center;
 }
-.news   {
+
+.news {
     display: flex;
     height: auto;
     justify-content: space-between;
 }
-.pres   {
+
+.pres {
     display: flex;
     flex-flow: column;
     width: 50%;
@@ -47,10 +52,12 @@
     background: #ececec ;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
-.imagePres  {
+
+.imagePres {
     width: 50%;
 }
-.text    {
+
+.text {
     display: flex;
     flex-flow: column;
     width: 40%;
@@ -60,23 +67,28 @@
     margin-top: 1em;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
+
 .imageProjAcc {
     display: flex;
     width: 40%;
     margin-bottom: 1em;
     justify-content: start;
 }
+
 p {
     font-family: 'Public Sans', sans-serif;
 }
-h2  {
+
+h2 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
-hr  {
+
+hr {
     margin-top: 5em;
     margin-bottom: 5em;
 }
+
 .projetAcc {
     display: flex;
     margin-bottom: 5em;
@@ -88,7 +100,8 @@ hr  {
     padding-right: 3em;
     padding-left: 3em;
 }
-.textIntro  {
+
+.textIntro {
     padding-left: 8.8em;
     padding-right: 8.8em;
     padding-top: 3em;
