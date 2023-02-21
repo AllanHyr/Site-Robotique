@@ -14,31 +14,6 @@ main {
     margin-right: auto;
 }
 
-.box {
-    width: 80%;
-    margin: auto;
-    display: flex;
-}
-
-.logo {
-    width: 10%;
-    padding: 2em;
-    text-align: center;
-}
-
-.navigation {
-    width: 70%;
-    padding: 2em;
-    text-align: end;
-}
-
-.navi {
-    margin-right: 5em;
-    font-family: 'Public Sans', sans-serif;
-    color: white;
-    font-weight: bolder;
-}
-
 .titre {
     height: 15em;
     display: flex;
@@ -113,7 +88,6 @@ hr {
     display: flex;
     margin-bottom: 5em;
     flex-flow: row nowrap;
-    justify-content: space-around;
 }
 
 .textProj {
