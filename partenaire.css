@@ -14,8 +14,9 @@
     width: 40%;
 }
 .imagePart  {
+    display: flex;
+    justify-content: center;
     width: 40%;
-    background: #FDB815;
 }
 hr  {
     margin-top: 5em;
@@ -28,9 +29,10 @@ hr  {
     justify-content: space-around;
 }
 .logoSpons  {
+    display: flex;
+    justify-content: center;
     width: 25%;
     height: 10em;
-    background: #FDB815;
 }
 p {
     font-family: 'Public Sans', sans-serif;
@@ -44,4 +46,11 @@ h1  {
 .barrePart  {
     margin-top: 5em;
     margin-bottom: 1em;
+}
+.imgPart{
+    height: 100%;
+}
+.imgSpons {
+    max-width: 100%;
+    max-height: 100%;
 }
