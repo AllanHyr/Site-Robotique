@@ -54,3 +54,17 @@
 .projT    {
     color: white;
 }
+@media (max-width: 950px)	{
+    .bigBlockGal    {
+        flex-flow: column nowrap;
+        align-items: center;
+        margin-bottom: 0;
+    }
+    .blockGal   {
+        width: 95%;
+        margin-bottom: 2em;
+    }
+    hr  {
+        display: none;
+    }
+}

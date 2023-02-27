@@ -14,14 +14,8 @@
     margin-left: auto;
     margin-right: auto;
 }
-<<<<<<< HEAD
-
-.titre {
-    height: 15em;
-=======
 .titre  {
     margin-bottom: 2.5em;
->>>>>>> dc6172f5bc6030febc74735394120af4ff5a0f88
     display: flex;
     flex-flow: row;
     justify-content: center;
@@ -99,11 +93,13 @@ hr {
     display: flex;
     margin-bottom: 5em;
     flex-flow: row nowrap;
-<<<<<<< HEAD
-=======
     justify-content: center;
-    max-height: 22em;
->>>>>>> dc6172f5bc6030febc74735394120af4ff5a0f88
+}
+.projetAcc2 {
+    display: flex;
+    margin-bottom: 5em;
+    flex-flow: row nowrap;
+    justify-content: center;
 }
 .textProjAcc   {
     padding-right: 3em;
@@ -123,7 +119,8 @@ hr {
 }
 .imgProjAcc{
     max-width: 100%;
-    max-height: 100%;
+    height: 100%;
+    max-height: 22em;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
 .imageProjAcc2 {
@@ -131,4 +128,47 @@ hr {
     width: 40%;
     justify-content: end;
     margin-bottom: 1em;
+}
+@media (max-width: 950px)	{
+	.presentation	{
+		display:flex;
+		flex-flow: column nowrap;
+		width: 100%;
+	}
+    .pres   {
+        width: 100%;
+    }
+    .imagePres    {
+        width: 100%;
+    }
+    .textIntro  {
+        padding-right: 3em;
+        padding-left: 3em;
+    }
+    .titreH {
+        font-size: 5em;
+    }
+    .projetAcc  {
+        display: flex;
+        flex-flow: column nowrap;
+        height: auto;
+    }
+    .projetAcc2  {
+        display: flex;
+        flex-flow: column-reverse nowrap;
+        height: auto;
+    }
+    .text   {
+        width: 100%;
+    }
+    .imageProjAcc {
+        width: 100%;
+    }
+    .imageProjAcc2 {
+        width: 100%;
+    }
+    .imgProjAcc {
+        width: 100%;
+        max-height: none;
+    }
 }

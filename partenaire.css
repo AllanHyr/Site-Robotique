@@ -10,8 +10,10 @@
     justify-content: space-around;
 }
 .textPart   {
-    padding: 2em;
     width: 40%;
+}
+.textP  {
+    padding: 2em;
 }
 .imagePart  {
     display: flex;
@@ -32,7 +34,8 @@ hr  {
     display: flex;
     justify-content: center;
     width: 25%;
-    height: 10em;
+    height: 5em;
+    margin-bottom: 2em;
 }
 p {
     font-family: 'Public Sans', sans-serif;
@@ -53,4 +56,29 @@ h1  {
 .imgSpons {
     max-width: 100%;
     max-height: 100%;
+}
+@media (max-width: 950px)	{
+    .presPart   {
+        flex-flow: column nowrap;
+    }
+    .textPart   {
+        width: 100%;
+    }
+    .imagePart  {
+        width: 100%;
+    }
+    .imageSpons {
+        flex-flow: column nowrap;
+        align-items: center;
+        width: 50%;
+    }
+    .spons   {
+        display: flex;
+        flex-flow: row;
+        justify-content: space-around;
+    }
+    .logoSpons  {
+        width: 45%;
+        height: auto;
+    }
 }

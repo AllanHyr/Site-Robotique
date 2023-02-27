@@ -24,3 +24,13 @@ h1  {
     padding-left: 5em;
     padding-bottom: 5em;
 }
+@media (max-width: 950px)	{
+    .moreProj   {
+        display: flex;
+        flex-flow: column nowrap;
+    }
+    .imageProj  {
+        max-width: 100%;
+        margin-left: 0;
+    }
+}
