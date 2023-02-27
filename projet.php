@@ -18,40 +18,7 @@
 </head>
 
 <body>
-    <!--<nav class="navbar">
-        <div class="container">
-            <a href="#"><img src="./assets/Logo_transparent.png" alt="Logo du site"></a>
-            <div class="nav-links">
-                <ul>
-                    <li><a class="nav-item" href="#">Accueil</a></li>
-                    <li><a class="nav-item" href="#">Membres</a></li>
-                    <li><a class="nav-item" href="#">Partenaires</a></li>
-                    <li>
-                        <div class="menu-dropdown">
-                            <a class="nav-item" href="#">Projets</a><i class="fa fa-caret-down"></i>
-                            <div class="dropdown-content">
-                                <a href="#">Projet A</a>
-                                <a href="#">Projet B</a>
-                                <a href="#">Projet C</a>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="menu-dropdown">
-                            <a class="nav-item" href="#">Galeries</a><i class="fa fa-caret-down"></i>
-                            <div class="dropdown-content">
-                                <a href="#">Galerie A</a>
-                                <a href="#">Galerie B</a>
-                                <a href="#">Galerie C</a>
-                            </div>
-                        </div>
-                    </li>
-                    <li><a class="nav-item" href="#">Contact</a></li>
-                    <li><a href="#"><i class="fa fa-wheelchair"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>-->
+    <?php include('navbar.html'); ?>
     <main>
         <div class="titreProj">
             <h1 class="titreH">Projet A</h1>
@@ -109,34 +76,7 @@
                 exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
         </div>
     </main>
-    <!--<footer>
-        <div class="container">
-            <div class="footer-item">
-                <h3 class="footer-title">Contact</h3>
-                <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex
-                    ea commodo consequat.</section>
-            </div>
-            <div class="footer-item">
-                <h3 class="footer-title">Mentions légales</h3>
-                <section>All content copyright club de robotique © 2023.</section>
-                <section>All rights reserved. Proudly published.</section>
-            </div>
-            <div class="footer-item">
-                <h3 class="footer-title">Partenaires</h3>
-                <section>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et
-                    dolore magna aliqua.</section>
-                <div class="social-network-logo">
-                    <a class="social" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a class="social" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                    <a class="social" href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-    </footer>-->
+    <?php include('footer.html'); ?>
 </body>
 
 </html>

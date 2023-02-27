@@ -132,11 +132,12 @@ hr {
 @media (max-width: 950px)	{
 	.presentation	{
 		display:flex;
-		flex-flow: column nowrap;
+		flex-flow: column-reverse nowrap;
 		width: 100%;
 	}
     .pres   {
         width: 100%;
+        margin: 0;
     }
     .imagePres    {
         width: 100%;
@@ -170,5 +171,28 @@ hr {
     .imgProjAcc {
         width: 100%;
         max-height: none;
+    }
+    .imgPres    {
+        margin: 0;
+    }
+}
+@media (max-width: 1200px)	{
+    .titreH {
+        font-size: 6em;
+    }
+}
+@media (max-width: 800px)	{
+    .titreH {
+        font-size: 4em;
+    }
+}
+@media (max-width: 530px)	{
+    .titreH {
+        font-size: 3em;
+    }
+}
+@media (max-width: 400px)	{
+    .titreH {
+        font-size: 2em;
     }
 }
