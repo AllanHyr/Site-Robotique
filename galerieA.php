@@ -27,21 +27,27 @@
         <div class="carrousel">
             <div class="slider">
                 <div class="slide">
+                    <div id="slide1" class="blurry-bg"></div>
                     <img src="./assets/carrousel/1.jpg" alt="" />
                 </div>
                 <div class="slide">
+                    <div id="slide2" class="blurry-bg"></div>
                     <img src="./assets/carrousel/2.jpg" alt="" />
                 </div>
                 <div class="slide">
+                    <div id="slide3" class="blurry-bg"></div>
                     <img src="./assets/carrousel/3.jpg" alt="" />
                 </div>
                 <div class="slide">
+                    <div id="slide4" class="blurry-bg"></div>
                     <img src="./assets/carrousel/4.jpg" alt="" />
                 </div>
                 <div class="slide">
+                    <div id="slide5" class="blurry-bg"></div>
                     <img src="./assets/carrousel/5.jpg" alt="" />
                 </div>
                 <div class="slide">
+                    <div id="slide6" class="blurry-bg"></div>
                     <img src="./assets/carrousel/6.png" alt="" />
                 </div>
 
@@ -52,6 +58,7 @@
 
             <div class="gallery">
                 <div class="minia selected">
+                    <!-- <div id="slide1" class="blurry-bg"></div> -->
                     <img src="./assets/carrousel/1.jpg" alt="" />
                 </div>
                 <div class="minia">
