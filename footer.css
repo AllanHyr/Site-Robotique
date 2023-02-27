@@ -3,6 +3,7 @@ footer {
     margin: 0 auto;
     color: white;
     background: #262B63;
+    font-family: 'Public Sans', sans-serif;
 }
 
 footer > div.container {
