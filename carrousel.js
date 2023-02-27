@@ -21,42 +21,42 @@ slides.forEach((slide, indx) => {
 UpdateCounter();
 
 //      EVENT
-
 minias.forEach((minia, index) => {
     minia.addEventListener('click', () => {
         console.log(`Index cliqué : ${index}`);
 
-        document.querySelectorAll('.minia')[curSlide].classList.remove("selected");
-        curSlide = index;
+        UpdateThumbnail(index);
         UpdateCounter();
         UpdateSlides();
-
-        document.querySelectorAll('.minia')[index].classList.add("selected");
     });
 });
 
 
 // add event listener and next slide functionality
 nextSlide.addEventListener("click", function () {
+    let newSlide;
     if (curSlide === maxSlide) {
-        curSlide = 0;
+        newSlide = 0;
     }
     else {
-        curSlide++;
+        newSlide = curSlide + 1;
     }
 
+    UpdateThumbnail(newSlide);
     UpdateCounter();
     UpdateSlides();
 });
 
 prevSlide.addEventListener("click", function () {
+    let newSlide;
     if (curSlide === 0) {
-        curSlide = maxSlide;
+        newSlide = maxSlide;
     }
     else {
-        curSlide--;
+        newSlide = curSlide - 1;
     }
 
+    UpdateThumbnail(newSlide);
     UpdateCounter();
     UpdateSlides();
 });
@@ -71,8 +71,16 @@ function UpdateSlides() {
     });
 }
 
+function UpdateThumbnail(index) {
+    document.querySelectorAll('.minia')[curSlide].classList.remove("selected");
+    console.log("CurSlide : ", curSlide, " : Index : ", index);
+    curSlide = index;
+    document.querySelectorAll('.minia')[index].classList.add("selected");
+}
+
 scrollContainer.addEventListener("wheel", (evt) => {
     evt.preventDefault();
     scrollContainer.scrollLeft += evt.deltaY;
+    scrollContainer.scrollLeft += evt.deltaX;
 });
 //      END EVENT

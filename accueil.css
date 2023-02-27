@@ -14,8 +14,14 @@
     margin-left: auto;
     margin-right: auto;
 }
+<<<<<<< HEAD
+
+.titre {
+    height: 15em;
+=======
 .titre  {
     margin-bottom: 2.5em;
+>>>>>>> dc6172f5bc6030febc74735394120af4ff5a0f88
     display: flex;
     flex-flow: row;
     justify-content: center;
@@ -93,6 +99,8 @@ hr {
     display: flex;
     margin-bottom: 5em;
     flex-flow: row nowrap;
+<<<<<<< HEAD
+=======
     justify-content: center;
 }
 .projetAcc2 {
