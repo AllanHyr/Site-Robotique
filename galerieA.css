@@ -83,11 +83,11 @@ body {
     max-height: 675px;
     position: relative;
     overflow: hidden;
-    border: solid 2px #003478;
+    /* border: solid 2px #003478; */
     /* background: #494242; */
     box-sizing: border-box;
     
-    /* box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54); */
+    box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
 
 .slide {
@@ -226,6 +226,7 @@ hr  {
     max-width: 960px;
     height: 60vh;
     max-height: 540px;
+    box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
 
 .container-video {
