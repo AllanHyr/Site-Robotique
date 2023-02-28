@@ -34,30 +34,32 @@
         media="all">
     <body class="membreCont">
         <?php include('navbar.html'); ?>
-            <div class="titreMembre"><h1 class="titreH">Membres Club</h1></div>
-            <div class="verticale">
-                <div class="horizontal first-presentation" id="first">
-                    <div class="box"><H3>Equipe</H3>
-                        <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
-                        purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
-                        posuere non lacus.</p></div>
-                    <div class="ImageMembre"><img class="imgMembre"
-                            src="assets/equipe.jpeg"
-                            alt="membres"></div>
+            <main>
+                <div class="titreMembre"><h1 class="titreH">Membres Club</h1></div>
+                <div class="verticale">
+                    <div class="horizontal first-presentation" id="first">
+                        <div class="box"><H3>Equipe</H3>
+                            <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
+                            purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
+                            posuere non lacus.</p></div>
+                        <div class="ImageMembre"><img class="imgMembre"
+                                src="assets/equipe.jpeg"
+                                alt="membres"></div>
 
-                </div>
+                    </div>
 
-                <div class="horizontal background" id="second">
-                    <div class="ImageMembre"><img class="imgMembre"
-                            src="assets/directeur.jpeg"
-                            alt="membres"></div>
-                    <div class="box"><H3>Direction</H3>
-                        <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
-                        purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
-                        posuere non lacus.</p></div>
+                    <div class="horizontal background" id="second">
+                        <div class="ImageMembre"><img class="imgMembre"
+                                src="assets/directeur.jpeg"
+                                alt="membres"></div>
+                        <div class="box"><H3>Direction</H3>
+                            <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
+                            purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
+                            posuere non lacus.</p></div>
+                    </div>
                 </div>
-            </div>
-            <?php include('footer.html'); ?>
+            </main>
+        <?php include('footer.html'); ?>
     </body>
 
 </html>
