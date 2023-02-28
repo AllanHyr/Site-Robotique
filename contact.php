@@ -67,15 +67,15 @@
     <div class="horizontal contact" id="all">
         <div class="email-bloc">
             <i class="fa fa-envelope" aria-hidden="true" id="envelope-icone"></i>
-            <h3 class="boite" id="envelope">Lorem ipsum dolor sit amet, consectetur a</h3>
+            <p class="texteCont" id="envelope">Lorem ipsum dolor sit amet, consectetur a</p>
         </div>
         <div class="adresse-bloc">
             <i class="fa fa-map-marker" aria-hidden="true" id="point-map"></i>
-            <h3 class="boite" id="adresse">Lorem ipsum dolor sit amet, consectetur</h3>
+            <p class="texteCont" id="adresse">Lorem ipsum dolor sit amet, consectetur</p>
         </div>
         <div class="telephone-bloc">
             <i class="fa fa-phone" aria-hidden="true" id="telephone"></i>
-            <h3 class="boite" id="tel">02 25 26 36 15</h3>
+            <p class="texteCont" id="tel">02 25 26 36 15</p>
         </div>
     </div>
 </body>

@@ -90,6 +90,14 @@
 #lastname{
   margin: 0;
 }
+.texteCont  {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: bolder;
+  font-size: 1em;
+}
+.txt  {
+  font-family: 'Work Sans', sans-serif;
+}
 
 .verticale.map {
   display: flex;
