@@ -32,38 +32,32 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans&family=Roboto&display=swap" rel="stylesheet"
         media="all">
-
-    <body>
+    <body class="membreCont">
         <?php include('navbar.html'); ?>
-
-
-        <body id="back-ground">
-            <h1 id="title">Membres Club</h1>
-
+            <div class="titreMembre"><h1 class="titreH">Membres Club</h1></div>
             <div class="verticale">
                 <div class="horizontal first-presentation" id="first">
-                    <div class="box" id="texte">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
+                    <div class="box"><H3>Equipe</H3>
+                        <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
                         purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
-                        posuere non lacus.</div>
+                        posuere non lacus.</p></div>
                     <div class="ImageMembre"><img class="imgMembre"
-                            src="assets\depositphotos_88370500-stock-photo-mechanic-wearing-overalls.jpg"
+                            src="assets/equipe.jpeg"
                             alt="membres"></div>
 
                 </div>
 
                 <div class="horizontal background" id="second">
                     <div class="ImageMembre"><img class="imgMembre"
-                            src="assets\depositphotos_88370500-stock-photo-mechanic-wearing-overalls.jpg"
+                            src="assets/directeur.jpeg"
                             alt="membres"></div>
-                    <div class="box" id="texte">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
+                    <div class="box"><H3>Direction</H3>
+                        <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
                         purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
-                        posuere non lacus.</div>
+                        posuere non lacus.</p></div>
                 </div>
             </div>
-
-        </body>
-        <?php include('footer.html'); ?>
-
+            <?php include('footer.html'); ?>
     </body>
 
 </html>

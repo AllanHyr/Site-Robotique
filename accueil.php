@@ -14,7 +14,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;1,400&family=Roboto&family=Work+Sans&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Montserrat&family=Public+Sans&family=Roboto&family=Work+Sans&display=swap"
         rel="stylesheet">
 </head>
 
