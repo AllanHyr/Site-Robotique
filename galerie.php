@@ -17,7 +17,7 @@
         rel="stylesheet">
 </head>
 
-<body>
+<body class="galCont">
     <?php include('navbar.html'); ?>
     <main>
         <div class="titreGal">

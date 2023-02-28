@@ -6,6 +6,9 @@
     <title>membres club</title>
     <meta charset="utf8">
     <link rel="stylesheet" href="membres_club.css">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="footer.css">
 </head>
 
 
@@ -43,14 +46,14 @@
                         purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
                         posuere non lacus.</div>
                     <div class="ImageMembre"><img class="imgMembre"
-                            src="C:\Users\Utilisateur\site-robotique\assets\depositphotos_88370500-stock-photo-mechanic-wearing-overalls.jpg"
+                            src="assets\depositphotos_88370500-stock-photo-mechanic-wearing-overalls.jpg"
                             alt="membres"></div>
 
                 </div>
 
                 <div class="horizontal background" id="second">
                     <div class="ImageMembre"><img class="imgMembre"
-                            src="C:\Users\Utilisateur\site-robotique\assets\depositphotos_88370500-stock-photo-mechanic-wearing-overalls.jpg"
+                            src="assets\depositphotos_88370500-stock-photo-mechanic-wearing-overalls.jpg"
                             alt="membres"></div>
                     <div class="box" id="texte">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
                         purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
