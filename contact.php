@@ -9,11 +9,8 @@
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Public+Sans&family=Raleway&family=Work+Sans&display=swap">
+        href="https://fonts.googleapis.com/css2?family=Montserrat&family=Public+Sans&family=Roboto&family=Work+Sans&display=swap">
     <title>Document</title>
 </head>
 
@@ -66,16 +63,16 @@
 
     <div class="horizontal contact" id="all">
         <div class="email-bloc">
-            <i class="fa fa-envelope" aria-hidden="true" id="envelope-icone"></i>
-            <p class="texteCont" id="envelope">Lorem ipsum dolor sit amet, consectetur a</p>
+            <p class="titre" >Où nous envoyer un message</p>
+            <p class="texteCont">Lorem ipsum dolor sit amet, consectetur a</p>
         </div>
         <div class="adresse-bloc">
-            <i class="fa fa-map-marker" aria-hidden="true" id="point-map"></i>
-            <p class="texteCont" id="adresse">Lorem ipsum dolor sit amet, consectetur</p>
+            <p class="titre" >Où nous trouver ?</p>
+            <p class="texteCont">Lorem ipsum dolor sit amet, consectetur</p>
         </div>
         <div class="telephone-bloc">
-            <i class="fa fa-phone" aria-hidden="true" id="telephone"></i>
-            <p class="texteCont" id="tel">02 25 26 36 15</p>
+            <p class="titre" >Comment nous appeler ?</i>
+            <p class="texteCont">02 25 26 36 15</p>
         </div>
     </div>
 </body>
