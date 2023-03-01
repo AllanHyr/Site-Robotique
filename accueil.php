@@ -5,7 +5,8 @@
 <head>
     <meta charset="utf8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Robotique</title>
+    <title>Accueil - Club Robotique</title>
+    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="accueil.css">
     <link rel="stylesheet" href="normalize.css">
@@ -38,6 +39,9 @@
                     veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea
                     commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
                     molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio doloremque id nulla, assumenda velit placeat incidunt ratione rem quaerat quod necessitatibus ipsa modi? Quaerat corporis itaque minima sit aspernatur eos!
+                    Sunt nobis excepturi consequatur dolore veritatis ullam, facilis quasi vero consectetur accusamus. Error dignissimos nesciunt qui delectus cum ex nemo minima sequi sed, corrupti expedita. Atque qui inventore ullam tenetur!
+                    Sunt, qui repellendus totam cupiditate sequi tempore id dolorum natus quo adipisci doloremque, ex unde? Molestias officiis voluptatibus recusandae numquam voluptate quibusdam. Labore odio molestias tempore optio, quo natus exercitationem.
                 </p>
             </div>
             <div class="imagePres"><img class="imgPres" src="assets/reflexionRobot.jpg" alt="reflexionRobot"></div>

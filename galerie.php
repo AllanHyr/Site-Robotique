@@ -4,7 +4,8 @@
 
 <head>
     <meta charset="utf8">
-    <title>Robotique</title>
+    <title>Galerie - Club Robotique</title>
+    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="galerie.css">
     <link rel="stylesheet" href="normalize.css">

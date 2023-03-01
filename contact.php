@@ -12,7 +12,9 @@
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Montserrat&family=Public+Sans&family=Roboto&family=Work+Sans&display=swap">
-    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Contact - Club Robotique</title>
+    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
 </head>
 
 
@@ -51,13 +53,11 @@
                         </div>
 
                         <div class="texte">
-                            <label for="message"></label>
-                            <textarea class="texte" placeholder="Ecris ton message" id="message" name="message" rows="5"
-                                cols="70"></textarea>
+                            <textarea placeholder="Ecris ton message" id="message" name="message" ></textarea>
                         </div>
 
                         <div class="form-example envoyer">
-                            <input type="submit" value="envoyer">
+                            <input type="submit" value="Envoyer">
                         </div>
                     </form>
                 </div>
@@ -68,7 +68,7 @@
 
         <div class="horizontal contact" id="all">
             <div class="email-bloc">
-                <p class="titre" >Où nous envoyer un message</p>
+                <p class="titre" >Où nous envoyer un message ?</p>
                 <p class="texteCont">Lorem ipsum dolor sit amet, consectetur a</p>
             </div>
             <div class="adresse-bloc">
