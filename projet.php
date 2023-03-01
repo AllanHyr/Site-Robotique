@@ -4,7 +4,8 @@
 
 <head>
     <meta charset="utf8">
-    <title>Robotique</title>
+    <title>Projet - Club Robotique</title>
+    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="projet.css">
     <link rel="stylesheet" href="normalize.css">
@@ -20,6 +21,7 @@
 <body>
     <?php include('navbar.html'); ?>
     <main>
+        <div class="flex justify-content">
         <div class="titreProj">
             <h1 class="titreH">Projet A</h1>
         </div>
@@ -74,6 +76,7 @@
                 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
                 Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their
                 exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+        </div>
         </div>
     </main>
     <?php include('footer.html'); ?>

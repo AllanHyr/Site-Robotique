@@ -3,7 +3,6 @@
     margin: 0;
     width: auto;
     flex-flow: column wrap;
-    align-items: space-around;
     background: #E7F0FF;
 }
 
@@ -47,10 +46,16 @@
 .pres {
     display: flex;
     flex-flow: column;
+    justify-content: center;
+    align-items: center;
     width: 50%;
     margin-top: 1em;
     background: #ececec ;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
+}
+
+.pres > h2 {
+    font-size: xxx-large;
 }
 
 .imagePres {
@@ -107,9 +112,10 @@ hr {
 }
 
 .textIntro {
-    padding-left: 8.8em;
+    width: 80%;
+    /* padding-left: 8.8em;
     padding-right: 8.8em;
-    padding-top: 3em;
+    padding-top: 3em; */
 }
 .imgPres {
     width: 100%;
