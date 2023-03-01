@@ -3,9 +3,9 @@
 }
 .box {
     text-align: center;
-    width: 50%;
+    width: 100%;
     margin-top: 0.5em;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     background: #ececec;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
@@ -31,14 +31,14 @@
     margin-bottom: 2em;
 }
 .ImageMembre  {
-  width: 22%;
+  width: 50%;
   margin-bottom: 0.5em;
 }
 .imgMembre {
   display: flex;
   justify-content: center;
   width: 100%;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
 #first  {
@@ -81,4 +81,22 @@
   .box  {
     width: auto;
   }
+}
+
+
+.flex {
+  display: flex;
+}
+.justify-content {
+  justify-content: center;
+}
+.flex-column {
+  flex-direction: column;
+}
+.align-items {
+  align-items: center;
+}
+
+.width-80 {
+  width: 80%;
 }

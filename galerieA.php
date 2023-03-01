@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="galerieA.css">
     <title>Galerie A - Club Robotique</title>
-    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
+    <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 
 <body>

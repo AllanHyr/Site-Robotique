@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title>Membres - Club Robotique</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
+    <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="membres_club.css">
     <link rel="stylesheet" href="normalize.css">
@@ -21,32 +21,34 @@
 
 <body class="membreCont">
     <?php include('navbar.html'); ?>
-    <main>
-        <div class="titreMembre">
-            <h1 class="titreH">Membres Club</h1>
-        </div>
-        <div class="verticale">
-            <div class="horizontal first-presentation" id="first">
-                <div class="box">
-                    <H3>Equipe</H3>
-                    <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
-                    purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
-                    posuere non lacus.</p>
-                </div>
-                <div class="ImageMembre">
-                    <img class="imgMembre" src="assets/equipe.jpeg" alt="membres">
-                </div>
+    <main class="flex align-items flex-column">
+        <div class="width-80">
+            <div class="titreMembre">
+                <h1 class="titreH">Membres Club</h1>
             </div>
-
-            <div class="horizontal background" id="second">
-                <div class="ImageMembre">
-                    <img class="imgMembre" src="assets/directeur.jpeg" alt="membres">
+            <div class="verticale">
+                <div class="horizontal first-presentation" id="first">
+                    <div class="box">
+                        <H3>Equipe</H3>
+                        <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
+                        purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
+                        posuere non lacus.</p>
+                    </div>
+                    <div class="ImageMembre">
+                        <img class="imgMembre" src="assets/equipe.jpeg" alt="membres">
+                    </div>
                 </div>
-                <div class="box">
-                    <H3>Direction</H3>
-                    <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
-                    purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
-                    posuere non lacus.</p>
+
+                <div class="horizontal background" id="second">
+                    <div class="ImageMembre">
+                        <img class="imgMembre" src="assets/directeur.jpeg" alt="membres">
+                    </div>
+                    <div class="box">
+                        <H3>Direction</H3>
+                        <p class="membreTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nunc
+                        purus, scelerisque et lorem a, vulputate luctus arcu. Nunc massa diam, egestas ut elementum at,
+                        posuere non lacus.</p>
+                    </div>
                 </div>
             </div>
         </div>

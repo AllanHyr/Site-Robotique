@@ -14,7 +14,7 @@
         href="https://fonts.googleapis.com/css2?family=Montserrat&family=Public+Sans&family=Roboto&family=Work+Sans&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Contact - Club Robotique</title>
-    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
+    <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 
 
@@ -45,7 +45,7 @@
 
                         <div class="horizontal form-example">
                             <input class="nom" placeholder="Nom" type="text" name="lastname" id="lastname" required>
-                            <input class="prenom" placeholder="Prénom" type="texte" name="name" id="name" required>
+                            <input class="prenom" placeholder="Prénom" type="text" name="name" id="name" required>
                         </div>
 
                         <div class="horizontal form-example-mail">
@@ -76,7 +76,7 @@
                 <p class="texteCont">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
             <div class="telephone-bloc">
-                <p class="titre" >Comment nous appeler ?</i>
+                <p class="titre" >Comment nous appeler ?</p>
                 <p class="texteCont">02 25 26 36 15</p>
             </div>
         </div>
