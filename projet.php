@@ -4,7 +4,8 @@
 
 <head>
     <meta charset="utf8">
-    <title>Robotique</title>
+    <title>Projet - Club Robotique</title>
+    <link rel="icon" type="image/x-icon" href="/assets/Logo_transparent.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="projet.css">
     <link rel="stylesheet" href="normalize.css">
@@ -68,6 +69,7 @@
             Minima quasi quaerat, explicabo ut ipsum aliquid quis temporibus! Esse quas ratione aliquid enim possimus at odit reprehenderit iste quos repellat ad explicabo est, exercitationem a vitae, quidem id perferendis.
             At accusamus explicabo eos libero saepe unde error commodi corporis quas numquam, sed ipsa. Minus, ad consequatur. Ducimus aliquid dolorum fugit eligendi esse, distinctio magnam asperiores deserunt perferendis voluptatum sequi!
             Eum ea labore voluptatibus nisi minus ex, quasi magnam! Itaque error debitis laboriosam vel nihil! Laudantium autem eaque nostrum beatae repellendus veritatis. Eius ut ab possimus expedita illo aspernatur quod! Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur odit provident illo deserunt dignissimos, eligendi nesciunt praesentium vero omnis voluptatem natus dolores architecto perspiciatis. Itaque numquam sit est expedita nam?</p></div>
+        </div>
         </div>
     </main>
     <?php include('footer.html'); ?>

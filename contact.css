@@ -28,15 +28,7 @@
   padding: 2em;
 }
 
-.prenom::placeholder {
-  color: gray;
-}
-
-.nom::placeholder {
-  color: gray;
-}
-
-.mail::placeholder {
+input::placeholder, textarea.texte {
   color: gray;
 }
 
@@ -51,11 +43,11 @@
   justify-content: center;
 }
 
-.all.form-example {
+/* .all .form-example {
   margin-top: 2em;
   margin-bottom: 2em;
   height: 300px;
-}
+} */
 
 .horizontal.form-example-mail {
   display:flex;
@@ -112,6 +104,7 @@
 #lastname{
   margin: 0;
 }
+
 .texteCont  {
   font-family: 'Work Sans', sans-serif;
   font-weight: bolder;
@@ -132,6 +125,10 @@
   margin-top: 5em;
 }
 
+.texte > textarea {
+  width: 100%;
+  min-height: 7em;
+}
 
 /*responsive*/
 
