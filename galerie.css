@@ -46,6 +46,8 @@
     position: relative;
     background: #44658f;
     border-radius: 33px;
+    font-family: 'Montserrat', sans-serif;
+
 }
 .boutonGal:hover    {
     background: #FDB815;
@@ -57,6 +59,7 @@
 }
 .projT    {
     color: white;
+    font-family: 'Roboto', sans-serif;
 }
 @media (max-width: 950px)	{
     .bigBlockGal    {
