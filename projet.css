@@ -4,6 +4,11 @@
     flex-flow: row;
     justify-content: center;
 }
+.presProj   {
+    text-align: center;
+    background: #ececec;
+    box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
+}
 .titreH {
     padding-top: 1.2em;
 }
@@ -13,24 +18,40 @@ p {
 h1  {
     font-family: 'Roboto', sans-serif;
 }
-.imageProj  {
-    max-width: 50%;
-    margin-left: 2em;
-    margin-bottom: 1em;
-    float: right;
-}
 .contProj   {
-    padding-right: 5em;
-    padding-left: 5em;
-    padding-bottom: 5em;
+    width: 80%;
 }
-@media (max-width: 950px)	{
-    .moreProj   {
-        display: flex;
-        flex-flow: column nowrap;
-    }
-    .imageProj  {
-        max-width: 100%;
-        margin-left: 0;
-    }
+.allContProj    {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background: #E7F0FF;
+}
+.texteImage {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.imgProjPres    {
+    max-height: 22em;
+    margin: 2em;
+    box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
+}
+.projetTexte    {
+    display: flex;
+    align-items: center;
+    padding: 2em;
+}
+.imgProjPart    {
+    max-height: 22em;
+    margin-left: 2em;
+}
+h2  {
+    padding-top: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+h3  {
+    font-family: 'Roboto', sans-serif;
+}
+.blockProj  {
+    margin-bottom: 5em;
 }
