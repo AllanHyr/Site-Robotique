@@ -41,7 +41,7 @@
 
 
                 <div class="verticale donnees">
-                    <form action="" method="get" class="all form-example">
+                    <form action="bdd/contact.php" method="post" class="all form-example">
 
                         <div class="horizontal form-example">
                             <input class="nom" placeholder="Nom" type="text" name="lastname" id="lastname" required>
