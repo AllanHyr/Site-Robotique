@@ -7,4 +7,13 @@ window.onload = function () {
         navbar.classList.toggle('is-active');
         document.querySelector('body').classList.toggle('no-scroll');
     });
+
+    console.log("AZZETDGRZGZR", document.querySelectorAll('.nav-item'));
+    document.querySelectorAll('.nav-item').forEach(function(item){
+        if (item.href == window.location.href) {
+            console.log("AAAAA");
+            item.classList.add('active');
+            item.parentElement.classList.add('active');
+        }
+    });
 }
