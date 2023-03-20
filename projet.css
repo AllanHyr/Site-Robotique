@@ -55,3 +55,16 @@ h3  {
 .blockProj  {
     margin-bottom: 5em;
 }
+@media (max-width: 1100px)	{
+    .texteImage {
+        flex-flow: column nowrap;
+    }
+    .imgProjPres    {
+        width: 100%;
+        margin: 0;
+    }
+    .imgProjPart    {
+        width: 100%;
+        margin: 0;
+    }
+}
