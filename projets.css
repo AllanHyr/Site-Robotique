@@ -66,3 +66,27 @@
     cursor: pointer;
     background: #FDB815;
 }
+@media (max-width: 1100px)	{
+    .imageProjx {
+        width: 100%;
+    }
+    .imageTexteProjets  {
+        flex-direction: column-reverse;
+    }
+    .texteProjx {
+        width: 100%;
+        padding: 0;
+    }
+    .textProjx2 {
+        padding: 1em;
+    }
+    .imageProjx {
+        padding: 0;
+    }
+    .boutonProj {
+        font-size: 1em;
+    }
+    .bouton {
+        margin-bottom: 1em;
+    }
+}

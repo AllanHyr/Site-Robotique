@@ -66,7 +66,7 @@
             <div class="imageProjAcc"><img class="imgProjAcc" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
         </div>
         <div class="projetAcc2">
-            <div class="imageProjAcc2"><img class="imgProjAcc" src="assets/Legion.webp" alt="Légion qui nous regarde"></div>
+            <div class="imageProjAcc2"><img class="imgProjAcc" src="assets/galerieB/legion.webp" alt="Légion qui nous regarde"></div>
             <div class="text">
                 <h2>Projet B</h2>
                 <p class="textProjAcc">Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC

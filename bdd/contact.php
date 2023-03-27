@@ -8,6 +8,7 @@
         $pdo = New PDO('mysql:host=localhost;dbname=formulaire;charset=utf8','root', '');
     } catch (PDOException $e) {
         echo "Connection failed: " . $e->getMessage();
+        return;
     }
 
     $sql = "INSERT INTO contact (nom, prenom, email, msg)
