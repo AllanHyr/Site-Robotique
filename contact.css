@@ -11,12 +11,11 @@
 
 .titreContact {
   padding-top: 1.2em;
-  font-family: 'Roboto', sans-serif;
 }
 
 .titre{
   color: #003478;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5em;
 }
 
@@ -106,11 +105,10 @@ input::placeholder, textarea.texte {
 }
 
 .texteCont  {
-  font-family: 'Work Sans', sans-serif;
   font-weight: bolder;
   font-size: 1em;
 }
-.txt  {
+form  {
   font-family: 'Work Sans', sans-serif;
 }
 
@@ -128,6 +126,7 @@ input::placeholder, textarea.texte {
 .texte > textarea {
   width: 100%;
   min-height: 7em;
+  min-width: 42em;
 }
 
 /*responsive*/

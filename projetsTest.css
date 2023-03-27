@@ -1,6 +1,5 @@
 body    {
     background: #E7F0FF;
-    font-family: 'Roboto', sans-serif;
 }
 .titreProjets  {
     display: flex;
@@ -29,7 +28,6 @@ body    {
 .txtProj   {
     padding: 1em;
     height: 100%;
-    font-family: 'Work Sans', sans-serif;
 }
 .allButton  {
     display: flex;

@@ -9,7 +9,6 @@
 }
 .titreH {
     padding-top: 1.2em;
-    font-family: 'Roboto', sans-serif;
 }
 .blockGal    {
     width: 35%;
@@ -59,7 +58,6 @@
 }
 .projT    {
     color: white;
-    font-family: 'Roboto', sans-serif;
 }
 @media (max-width: 950px)	{
     .bigBlockGal    {

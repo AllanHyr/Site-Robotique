@@ -24,7 +24,7 @@
     <main class="allContProj">
         <div class="contProj">
             <div class="titreProj">
-                <h1 class="titreH">Projet A</h1>
+                <h1 class="titreH">Projet Claptrap</h1>
             </div>
             <div class="presProj">
                 <h2>Présentation</h2>

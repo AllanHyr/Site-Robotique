@@ -30,7 +30,7 @@
                 <div class="imageGal"><img class="imgGal" src="assets/mainRobot.avif" alt="test image"></div>
                 <div class="miniBlockGal">
                     <a href="galerieA.php" class="boutonGal">Galerie</a>
-                    <p class="projT">Projet A</p>
+                    <p class="projT">Projet Claptrap</p>
                     <a class="boutonGal" href="projetA.php">Projet</a>
                 </div>
             </div>

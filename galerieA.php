@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="galerieA.css">
-    <title>Galerie A - Club Robotique</title>
+    <title>Galerie Claptrap - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 
@@ -22,7 +22,7 @@
 
     <main>
         <div class="titrePart">
-            <h1 class="titreH">Galerie Projet A</h1>
+            <h1 class="titreH">Galerie Projet Claptrap</h1>
         </div>
 
         <div class="carrousel">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="slide">
                     <div id="slide5" class="blurry-bg"></div>
-                    <img src="./assets/galerieA/claptrap_drunk.jpg" alt="Claptrap qui boire de l'alcool" />
+                    <img src="./assets/galerieA/claptrap_drunk.jpg" alt="Claptrap qui boit de l'alcool" />
                 </div>
 
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>

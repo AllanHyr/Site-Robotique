@@ -26,7 +26,7 @@
             <div class="titreProjets">
                 <h1 class="titreH">Projets</h1>
             </div>
-            <div class="titreProjx"><h2>Projet A</h2></div>
+            <div class="titreProjx"><h2>Projet Claptrap</h2></div>
             <div class="imageTexteProjets">
                 <div class="texteProjx">
                     <div class="textProjx2">

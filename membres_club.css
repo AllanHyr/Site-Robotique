@@ -7,7 +7,6 @@
     margin-top: 0.5em;
     background: #ececec;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
-    font-family: 'Roboto', sans-serif;
 }
 
 .titreMembre  {
@@ -18,7 +17,6 @@
 }
 .titreH {
   padding-top: 1.2em;
-  font-family: 'Roboto', sans-serif;
 }
 .horizontal {
     display: flex;
@@ -52,13 +50,11 @@
   display: flex;
   justify-content: center;
   padding: 2em;
-  font-family: 'Roboto', sans-serif;
   font-size: 30px;
   
 }
 .membreTxt  {
   padding: 2em;
-  font-family: 'Work Sans', sans-serif;
 }
 
 

@@ -49,7 +49,7 @@
         <HR WIDTH="35%">
         <div class="projetAcc">
             <div class="text">
-                <h2>Projet A</h2>
+                <h2>Projet Claptrap</h2>
                 <p class="textProjAcc">Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
                     "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
