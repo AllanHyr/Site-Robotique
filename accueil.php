@@ -44,7 +44,7 @@
                     Sunt, qui repellendus totam cupiditate sequi tempore id dolorum natus quo adipisci doloremque, ex unde? Molestias officiis voluptatibus recusandae numquam voluptate quibusdam. Labore odio molestias tempore optio, quo natus exercitationem.
                 </p>
             </div>
-            <div class="imagePres"><img class="imgPres" src="assets/reflexionRobot.jpg" alt="reflexionRobot"></div>
+            <div class="imagePres"><img class="imgPres" src="assets/reflexionRobot.jpg" alt="Un robot pensif regardant vers la gauche"></div>
         </div>
         <HR WIDTH="35%">
         <div class="projetAcc">
@@ -63,10 +63,10 @@
                     molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
                 </p>
             </div>
-            <div class="imageProjAcc"><img class="imgProjAcc" src="assets/claptrap.webp" alt="claptrap"></div>
+            <div class="imageProjAcc"><img class="imgProjAcc" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
         </div>
         <div class="projetAcc2">
-            <div class="imageProjAcc2"><img class="imgProjAcc" src="assets/Legion.webp" alt="légion"></div>
+            <div class="imageProjAcc2"><img class="imgProjAcc" src="assets/Legion.webp" alt="Légion qui nous regarde"></div>
             <div class="text">
                 <h2>Projet B</h2>
                 <p class="textProjAcc">Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC

@@ -35,13 +35,13 @@
                         posuere non lacus.</p>
                     </div>
                     <div class="ImageMembre">
-                        <img class="imgMembre" src="assets/equipe.jpeg" alt="membres">
+                        <img class="imgMembre" src="assets/equipe.jpg" alt="Photo non contractuel des membres du club">
                     </div>
                 </div>
 
                 <div class="horizontal background" id="second">
                     <div class="ImageMembre">
-                        <img class="imgMembre" src="assets/directeur.jpeg" alt="membres">
+                        <img class="imgMembre" src="assets/directeur.jpeg" alt="Photo non contractuel du président du club">
                     </div>
                     <div class="box">
                         <H3>Direction</H3>

@@ -6,6 +6,10 @@ footer {
     font-family: 'Public Sans', sans-serif;
 }
 
+footer p {
+    font-family: 'Public Sans', sans-serif;
+}
+
 footer > div.container {
     width: 85%;
     display: flex;

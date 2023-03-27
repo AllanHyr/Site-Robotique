@@ -36,7 +36,7 @@
                     book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of
                     Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
             </div>
-            <div class="imagePart"><img class="imgPart" src="assets/partenaire.png" alt="partenaire"></div>
+            <div class="imagePart"><img class="imgPart" src="assets/partenaire.png" alt="Image poignée de main"></div>
         </div>
         <HR class="barrePart" WIDTH="35%">
         <div class="titrePart">
@@ -44,14 +44,14 @@
         </div>
         <div class="spons">
             <div class="imageSpons">
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="logocesi"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="logocesi"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="logocesi"></div>
+                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
             </div>
             <div class="imageSpons">
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="logocesi"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="logocesi"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="logocesi"></div>
+                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
             </div>
         </div>
     </main>
