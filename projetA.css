@@ -12,12 +12,6 @@
 .titreH {
     padding-top: 1.2em;
 }
-p {
-    font-family: 'Public Sans', sans-serif;
-}
-h1  {
-    font-family: 'Roboto', sans-serif;
-}
 .contProj   {
     width: 80%;
 }
@@ -47,10 +41,6 @@ h1  {
 }
 h2  {
     padding-top: 1em;
-    font-family: 'Roboto', sans-serif;
-}
-h3  {
-    font-family: 'Roboto', sans-serif;
 }
 .blockProj  {
     margin-bottom: 5em;

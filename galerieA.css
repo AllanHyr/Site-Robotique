@@ -150,7 +150,7 @@ body {
     padding: 5px 10px;
     color: white;
     background: #003478;
-    /* border-radius: 50% 0 0 50%; */
+    font-family: 'Work Sans', sans-serif;
 }
 
 .blurry-bg {

@@ -42,6 +42,10 @@ h1 {
   margin: 0.67em 0;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
 /* Grouping content
    ========================================================================== */
 
@@ -107,6 +111,10 @@ kbd,
 samp {
   font-family: monospace, monospace; /* 1 */
   font-size: 1em; /* 2 */
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
 }
 
 /**
