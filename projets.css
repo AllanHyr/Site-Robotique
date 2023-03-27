@@ -63,7 +63,7 @@ p   {
     font-family: 'Roboto', sans-serif;
 }
 .boutonProj  {
-    background: #003478;
+    background: #44658f;
     color: white;
     border-radius: 33px;
     border: none;
@@ -75,4 +75,5 @@ p   {
 }
 .boutonProj:hover   {
     cursor: pointer;
+    background: #FDB815;
 }

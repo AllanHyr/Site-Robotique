@@ -22,7 +22,7 @@
         <div class="barreLong">
             <div class="boxProjets">
                 <h2>Projets A</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
+                <p class="txtProj">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
                 <div class="allButton">
                     <button>La suite de l'article</button>
                     <button>Voir les images</button>
@@ -30,7 +30,7 @@
             </div>
             <div class="boxProjets">
                 <h2>Projets B</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
+                <p class="txtProj">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
                 <div class="allButton">
                     <button>La suite de l'article</button>
                     <button>Voir les images</button>
@@ -41,7 +41,7 @@
         <div class="barreLong">
             <div class="boxProjets">
                 <h2>Projets C</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
+                <p class="txtProj">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
                 <div class="allButton">
                     <button>La suite de l'article</button>
                     <button>Voir les images</button>
@@ -49,7 +49,7 @@
             </div>
             <div class="boxProjets">
                 <h2>Projets D</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
+                <p class="txtProj">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque, autem aperiam aspernatur quisquam labore recusandae delectus officiis, unde, esse ullam incidunt perspiciatis sequi atque tempore mollitia ab. Consequuntur, tenetur quasi?</p>
                 <div class="allButton">
                     <button>La suite de l'article</button>
                     <button>Voir les images</button>
