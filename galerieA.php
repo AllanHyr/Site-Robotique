@@ -22,7 +22,7 @@
 
     <main>
         <div class="titrePart">
-            <h1 class="titreH">Galerie Projet Claptrap</h1>
+            <h1 class="titreH">Galerie Claptrap</h1>
         </div>
 
         <div class="carrousel">

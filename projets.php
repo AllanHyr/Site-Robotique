@@ -45,9 +45,9 @@
                         </form>    
                     </div>
                 </div>
-                <div class="imageProjx"><img class="imgProjx" src="assets/mainRobot.avif" alt="test image"></div>
+                <div class="imageProjx"><img class="imgProjx" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
             </div>
-            <div class="titreProjx"><h2>Projet B</h2></div>
+            <div class="titreProjx"><h2>Projet Jeu arcade</h2></div>
             <div class="imageTexteProjets">
                 <div class="texteProjx">
                     <div class="textProjx2">
@@ -65,10 +65,10 @@
                             <button class="boutonProj" type="submit">Voir les images</button>
                         </form>    
                     </div>
+                </div>
+                <div class="imageProjx"><img class="imgProjx" src="assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
             </div>
-                <div class="imageProjx"><img class="imgProjx" src="assets/peurRobot.webp" alt="test image"></div>
-            </div>
-            <div class="titreProjx"><h2>Projet C</h2></div>
+            <div class="titreProjx"><h2>Projet Sumobot</h2></div>
             <div class="imageTexteProjets">
                 <div class="texteProjx">
                     <div class="textProjx2"> 
@@ -87,7 +87,28 @@
                         </form>    
                     </div>
                 </div>
-                <div class="imageProjx"><img class="imgProjx" src="assets/reflexionRobot.jpg" alt="test image"></div>
+                <div class="imageProjx"><img class="imgProjx" src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse"></div>
+            </div>
+            <div class="titreProjx"><h2>Atelier Soudure</h2></div>
+            <div class="imageTexteProjets">
+                <div class="texteProjx">
+                    <div class="textProjx2">
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque quasi odit hic quos sequi. At, aspernatur deserunt a, animi doloribus nemo molestiae, atque quo maiores vero nesciunt sequi provident cupiditate.
+                        Quae hic sed accusantium quis labore molestias nobis blanditiis vero, non quaerat cum ab quia minus sunt harum maxime. Repellendus, ab dolor enim ea neque autem iure aut odio dolore?
+                        Facere quia dolores in molestias eius. Perferendis, praesentium. Voluptatibus iure fugit facilis expedita et rerum saepe, unde quae aperiam magni, assumenda quo numquam necessitatibus impedit inventore, quasi sapiente illo ea.
+                        Minima facere sed labore saepe alias corrupti voluptatem dicta amet repellat laudantium, nihil pariatur inventore cumque, iste, rem libero dolorem perspiciatis placeat aut illum? Quas deleniti nemo similique blanditiis adipisci.
+                        Iure eveniet dolor, quos eius tempore iste possimus ab a excepturi, nostrum neque perferendis veritatis, explicabo recusandae aspernatur consequatur unde quibusdam autem asperiores dignissimos debitis? Non aliquid facere dicta voluptas.</p>
+                    </div>
+                    <div class="bouton">
+                        <form action="projetA.php">
+                            <button class="boutonProj" type="submit">La suite de l'article</button>
+                        </form>
+                        <form action="galerieA.php">
+                            <button class="boutonProj" type="submit">Voir les images</button>
+                        </form>    
+                    </div>
+                </div>
+                <div class="imageProjx"><img class="imgProjx" src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot">></div>
             </div>
         </div>
     </main>

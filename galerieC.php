@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="galerieC.css">
-    <title>Sumobot - Club Robotique</title>
+    <title>Galerie Sumobot - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 

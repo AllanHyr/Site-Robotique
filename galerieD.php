@@ -33,7 +33,7 @@
                 </div>
                 <div class="slide">
                     <div id="slide2" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/elodie.jpg" alt="élodie soude, maewenn et eloïc regarde">
+                    <img src="./assets/Atelier_soudure/elody.jpg" alt="élody soude, maewenn et eloïc regarde">
                 </div>
                 <div class="slide">
                     <div id="slide3" class="blurry-bg"></div>
@@ -53,7 +53,7 @@
                     <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois">
                 </div>
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/elodie.jpg" alt="élodie soude, maewenn et eloïc regarde">
+                    <img src="./assets/Atelier_soudure/elody.jpg" alt="élody soude, maewenn et eloïc regarde">
                 </div>
                 <div class="minia">
                     <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder">
