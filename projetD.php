@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf8">
-    <title>Projet Sumobot- Club Robotique</title>
+    <title>Atelier Soudure - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -24,7 +24,7 @@
     <main class="allContProj">
         <div class="contProj">
             <div class="titreProj">
-                <h1 class="titreH">Projet Sumobot</h1>
+                <h1 class="titreH">Atelier Soudure</h1>
             </div>
             <div class="presProj">
                 <h2>Présentation</h2>

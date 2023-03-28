@@ -126,7 +126,7 @@ form  {
 .texte > textarea {
   width: 100%;
   min-height: 7em;
-  min-width: 42em;
+  resize: none;
 }
 
 /*responsive*/

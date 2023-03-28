@@ -27,30 +27,38 @@
         </div>
         <div class="bigBlockGal">
             <div class="blockGal">
-                <div class="imageGal"><img class="imgGal" src="assets/mainRobot.avif" alt="test image"></div>
+                <div class="imageGal"><img class="imgGal" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
                 <div class="miniBlockGal">
-                    <a href="galerieA.php" class="boutonGal">Galerie</a>
-                    <p class="projT">Projet Claptrap</p>
                     <a class="boutonGal" href="projetA.php">Projet</a>
+                    <p class="projT">Projet Claptrap</p>
+                    <a href="galerieA.php" class="boutonGal">Galerie</a>
                 </div>
             </div>
             <div class="blockGal">
-                <div class="imageGal"><img class="imgGal" src="assets/peurRobot.webp" alt="test image"></div>
+                <div class="imageGal"><img class="imgGal" src="assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
                 <div class="miniBlockGal">
-                    <a href="#" class="boutonGal">Galerie</a>
-                    <p class="projT">Projet B</p>
-                    <a class="boutonGal" href="#">Projet</a>
+                    <a href="projetB.php" class="boutonGal">Projet</a>
+                    <p class="projT">Projet Jeu d'arcade</p>
+                    <a class="boutonGal" href="galerieB.php">Galerie</a>
                 </div>
             </div>
         </div>
         <HR class="barreGal" WIDTH="35%">
         <div class="bigBlockGal">
             <div class="blockGal">
-                <div class="imageGal"><img class="imgGal" src="assets/reflexionRobot.jpg" alt="test image"></div>
+                <div class="imageGal"><img class="imgGal" src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse"></div>
                 <div class="miniBlockGal">
-                    <a href="#" class="boutonGal">Galerie</a>
-                    <p class="projT">Projet C</p>
-                    <a class="boutonGal" href="#">Projet</a>
+                    <a href="projetC.php" class="boutonGal">Projet</a>
+                    <p class="projT">Projet Sumobot</p>
+                    <a class="boutonGal" href="galerieC.php">Galerie</a>
+                </div>
+            </div>
+            <div class="blockGal">
+                <div class="imageGal"><img class="imgGal" src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot"></div>
+                <div class="miniBlockGal">
+                    <a href="projetD.php" class="boutonGal">Projet</a>
+                    <p class="projT">Atelier Soudure</p>
+                    <a class="boutonGal" href="galerieD.php">Galerie</a>
                 </div>
             </div>
         </div>
