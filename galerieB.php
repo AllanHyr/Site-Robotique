@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="galerieA.css">
-    <title>Galerie jeu d'arcade - Club Robotique</title>
+    <title>Galerie Jeu d'arcade - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 
@@ -22,7 +22,7 @@
 
     <main>
         <div class="titrePart">
-            <h1 class="titreH">Galerie jeu d'arcade</h1>
+            <h1 class="titreH">Galerie Jeu d'arcade</h1>
         </div>
 
         <div class="carrousel">
@@ -64,13 +64,13 @@
                 </div>
             </div>
         </div>
-
-        <HR WIDTH="35%">
+<!-- 
+        <HR WIDTH="35%"> -->
 
         <div class="container-video">
-            <video controls class="yt">
+            <!-- <video controls class="yt">
                 <source src="./assets/galerieA/sumobot.mp4" />
-            </video>
+            </video> -->
             <!-- <iframe class="yt" src="https://www.youtube.com/embed/QCqxOzKNFks"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
