@@ -1,13 +1,16 @@
 .membreCont { /*Mettre une couleur de fond pour le body*/
   background: #E7F0FF;
 }
-.box { /* permet de mettre en l'arrière des texte et l'aligner dans la case */
+
+.box { /* permet de mettre un fond à l'arrière des texte et aligner le texte dans la case */
     text-align: center;
     width: 100%;
     margin-top: 0.5em;
     background: #ececec;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
+
+/* Css du titre */
 
 .titreMembre  { /* Met en forme le titre principale de la page*/
   display: flex;
@@ -20,17 +23,8 @@
   padding-top: 1.2em;
 }
 
-.horizontal { 
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-}
-  
-.verticale {
-    display: flex;
-    flex-flow: column nowrap;
-    margin-bottom: 2em;
-}
+
+/* Css pour les images */
 
 .ImageMembre  { /* Met en forme les images*/
   width: 50%;
@@ -45,17 +39,30 @@
   box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
 
+
 #first  { /* mettre un margin sur la première ligne (texte et photo)*/
   margin-bottom: 2em;
 }
+
 #second  { /* mettre un margin sur la deuxième ligne (texte et photo)*/
   margin-bottom: 2em;
 }
 
-.membreTxt  { /*Mettre en forme les zones*/
+.membreTxt  { /*Mettre en forme les zones de texte*/
   padding: 2em;
 }
 
+.horizontal { /*permet de mettre les blocs en ligne et justifier au centre*/
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.verticale {/*permet de mettre les blocs en colonne et mettre un margin haut*/
+  display: flex;
+  flex-flow: column nowrap;
+  margin-bottom: 2em;
+}
 
 /*responsive de la page*/
 
