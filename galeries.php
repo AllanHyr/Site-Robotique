@@ -53,14 +53,6 @@
                     <a class="boutonGal" href="#">Projet</a>
                 </div>
             </div>
-            <div class="blockGal">
-                <div class="imageGal"><img class="imgGal" src="assets/heureuxRobot.jpeg" alt="test image"></div>
-                <div class="miniBlockGal">
-                    <a href="#" class="boutonGal">Galerie</a>
-                    <p class="projT">Projet D</p>
-                    <a class="boutonGal" href="#">Projet</a>
-                </div>
-            </div>
         </div>
     </main>
     <?php include('footer.html'); ?>
