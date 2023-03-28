@@ -29,15 +29,15 @@
             <div class="slider">
                 <div class="slide">
                     <div id="slide1" class="blurry-bg"></div>
-                    <img src="./assets/galerieC/pièces.jpg" alt="Ensemble de pièces pour construire le robot" />
+                    <img src="./assets/sumobot/pièces.jpg" alt="Ensemble de pièces pour construire le robot" />
                 </div>
                 <div class="slide">
                     <div id="slide2" class="blurry-bg"></div>
-                    <img src="./assets/galerieC/sumobotHaut.jpg" alt="Photo du sumobot de haut" />
+                    <img src="./assets/sumobot/sumobotHaut.jpg" alt="Photo du sumobot de haut" />
                 </div>
                 <div class="slide">
                     <div id="slide3" class="blurry-bg"></div>
-                    <img src="./assets/galerieC/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse" />
+                    <img src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse" />
                 </div>
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
                 <button class="btn btn-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
@@ -46,13 +46,13 @@
 
             <div class="gallery">
                 <div class="minia selected">
-                    <img src="./assets/galerieC/pièces.jpg" alt="Ensemble de pièces pour construire le robot" />
+                    <img src="./assets/sumobot/pièces.jpg" alt="Ensemble de pièces pour construire le robot" />
                 </div>
                 <div class="minia">
-                    <img src="./assets/galerieC/sumobotHaut.jpg" alt="Photo du sumobot de haut" />
+                    <img src="./assets/sumobot/sumobotHaut.jpg" alt="Photo du sumobot de haut" />
                 </div>
                 <div class="minia">
-                    <img src="./assets/galerieC/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse" />
+                    <img src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse" />
                 </div>
             </div>
         </div>
