@@ -34,7 +34,7 @@
                     Voluptas totam reprehenderit, saepe molestias minima ratione perspiciatis recusandae voluptates explicabo distinctio, qui ut a esse, quia praesentium mollitia facere omnis laborum possimus necessitatibus eum? Alias voluptates veniam voluptate rerum?
                     Velit consequuntur harum numquam ab excepturi temporibus corporis atque eveniet ad culpa, earum voluptatum, vel deleniti et. Accusamus, dolores eveniet fugiat, id saepe eum amet nostrum non, expedita porro vel?
                     Nemo sint quos perspiciatis maiores ea. Dolores illum eveniet molestias nisi accusamus aliquid eum iste excepturi commodi, quasi laborum nam deserunt optio deleniti, sapiente in, fugit omnis aspernatur accusantium ratione. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente totam porro commodi neque aliquam accusantium maiores reprehenderit tempore iusto a, quisquam eius eaque ab beatae nisi, et non sed iure!</p></div>
-                    <div><img class="imgProjPres" src="assets/galerieB/legion.webp" alt="Légion nous regarde"></div>
+                    <div><img class="imgProjPres" src="assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
                 </div>
             </div>
             <h3>Partie 1</h3>
@@ -44,6 +44,7 @@
                 Odit, nihil. Sapiente saepe, animi obcaecati cupiditate laboriosam ipsa vero voluptatem quis? Sapiente, odio mollitia suscipit sit molestiae ducimus reprehenderit perspiciatis, ipsa amet similique asperiores. Culpa error explicabo sit quo!
                 Aliquid quod laboriosam deserunt provident commodi debitis veniam corrupti enim molestiae, illo voluptates facilis id libero totam assumenda. Officia, nobis. Alias consequatur reiciendis voluptate amet ex est doloribus! Assumenda, eum?
                 Magni veritatis libero tenetur velit mollitia molestias? Nostrum molestiae obcaecati reiciendis et perferendis neque? Quidem, officia quibusdam sunt dolor delectus impedit reprehenderit pariatur aspernatur, similique, minima minus. Autem, eveniet aliquam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae id, ullam, sapiente adipisci et aspernatur quis voluptatem obcaecati nemo, quo illum. Reprehenderit modi, labore assumenda aut accusamus voluptate est laboriosam?</p></div>    
+            <div><img class="imgProjPres" src="assets/jeuArcade/projet.jpg" alt="Travail heureux"></div>
             </div>
             <h3>Partie 2</h3>
             <div class="texteImage blockProj">
@@ -51,9 +52,8 @@
                 Atque ex alias quibusdam non corrupti rerum incidunt ullam, a possimus praesentium deserunt eos quo velit numquam? Saepe ullam ipsa rem, vero repellat pariatur nostrum, perferendis porro exercitationem nisi maiores?
                 Praesentium accusantium reprehenderit architecto, ipsam eligendi modi consequuntur numquam commodi sequi itaque voluptatibus dolorem harum suscipit. Rem ex animi blanditiis, eos nihil nemo magni eligendi veniam laboriosam ea, hic maxime?
                 Natus consequatur deserunt asperiores voluptate sed, distinctio dolorum recusandae voluptatem, minus corporis aliquam vel eius ratione aliquid doloribus error quasi fugit iste! Consequuntur at libero optio molestias iste repellat dignissimos?
-                Eligendi doloremque eius ut ullam fuga ducimus sunt nemo, fugit excepturi doloribus sit minus ad inventore aspernatur. Repudiandae placeat atque dignissimos quia, quibusdam fuga, doloribus vel minus vitae tempore nulla? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam molestiae nisi numquam ex soluta tenetur delectus a debitis, placeat distinctio nemo, est et sequi perspiciatis, obcaecati odio incidunt illum!</p></div>
-            <div><img class="imgProjPres" src="assets/galerieB/legionProto.jpg" alt="Prototype de création legion"></div>  
-            </div>
+                Eligendi doloremque eius ut ullam fuga ducimus sunt nemo, fugit excepturi doloribus sit minus ad inventore aspernatur. Repudiandae placeat atque dignissimos quia, quibusdam fuga, doloribus vel minus vitae tempore nulla? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam molestiae nisi numquam ex soluta tenetur delectus a debitis, placeat distinctio nemo, est et sequi perspiciatis, obcaecati odio incidunt illum!</p></div>  
+                </div>
                 <h3>Partie 3</h3>
             <div class="texteImage blockProj">
                 <div class="projetTxt"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum voluptas reprehenderit quo error distinctio reiciendis. Aspernatur veniam pariatur nulla officiis vero esse, eligendi blanditiis labore odio accusamus aliquid delectus dolores!
@@ -61,6 +61,7 @@
                 Accusantium officiis accusamus facere saepe in nisi illo sit impedit est iusto possimus enim similique aperiam nostrum neque eligendi odit optio doloribus asperiores aspernatur cum, quo velit! Repellendus, debitis dolores.
                 Saepe debitis fugiat distinctio, eligendi illo expedita maxime id quasi illum dignissimos vero dolor accusamus inventore soluta aspernatur sint. Illo libero vel in magni nobis illum expedita laboriosam modi dolore!
                 Totam sed laboriosam quaerat atque delectus praesentium sequi quae odit quisquam iusto consequatur veritatis corrupti suscipit, placeat facere doloremque voluptas tenetur! Omnis nam soluta, fugit maxime sapiente molestiae eaque esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sed consectetur deleniti maiores, est et quod odit magni ipsam explicabo? Distinctio eum optio nulla doloremque ea quaerat velit id consequatur.</p></div>
+                <div><img class="imgProjPres" src="assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe"></div>
             </div>
             <h3>Partie 4</h3>
             <div class="texteImage blockProj">
@@ -68,8 +69,7 @@
                 Aut repudiandae debitis et ad neque ratione magni alias, vero iure tempora eligendi repellendus fuga sed vitae rem accusantium qui aperiam voluptates fugiat, at esse sequi sunt nam. Quia, doloribus!
                 Consequatur ratione odio debitis ducimus maiores nesciunt dolorem repudiandae dolore laudantium amet aut ut, cum numquam pariatur ea soluta quasi voluptas voluptatum! Culpa voluptatum cupiditate quia, error nihil doloribus veritatis.
                 Soluta a dignissimos quas ea saepe molestiae quaerat perspiciatis velit placeat adipisci praesentium eum vero voluptas harum unde recusandae blanditiis magni fugit ipsam neque accusantium, aliquam libero incidunt corrupti? Deleniti?
-                Fugiat nam cupiditate suscipit, vitae, vero error fuga eum praesentium ipsam incidunt veniam provident omnis excepturi ullam alias atque ea impedit. Distinctio placeat voluptate impedit nesciunt error sequi, velit tempore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis pariatur dicta aliquam a, vero sit, reiciendis maiores corporis nesciunt sequi atque laboriosam aliquid sed obcaecati culpa. Quidem, repellat. Dolorem, alias.</p></div>
-            <div><img class="imgProjPres" src="assets/galerieB/legionPrime.png" alt="Legion version prime !"></div>  
+                Fugiat nam cupiditate suscipit, vitae, vero error fuga eum praesentium ipsam incidunt veniam provident omnis excepturi ullam alias atque ea impedit. Distinctio placeat voluptate impedit nesciunt error sequi, velit tempore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis pariatur dicta aliquam a, vero sit, reiciendis maiores corporis nesciunt sequi atque laboriosam aliquid sed obcaecati culpa. Quidem, repellat. Dolorem, alias.</p></div>  
             </div>
             <h3>Partie 5</h3>
             <div class="texteImage blockProj">
