@@ -22,10 +22,13 @@
 <body class="accueil">
     <?php include('navbar.html'); ?>
     <main class="accueilCont">
+        <!-- Cette div permet d'affiché le titre principal -->
         <div class="titre">
             <h1 class="titreH">Club de robotique</h1>
         </div>
+        <!-- Présentation du club de robotique de CESI Brest -->
         <div class="presentation">
+            <!-- Texte de présentation -->
             <div class="pres">
                 <h2>Présentation</h2>
                 <p class="textIntro">Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
@@ -50,10 +53,12 @@
                     tempore optio, quo natus exercitationem.
                 </p>
             </div>
-            <div class="imagePres"><img class="imgPres" src="assets/reflexionRobot.jpg"
-                    alt="Un robot pensif regardant vers la gauche"></div>
+            <!-- Image de présentation -->
+            <div class="imagePres"><img class="imgPres" src="assets/reflexionRobot.jpg" alt="Un robot pensif regardant vers la gauche"></div>
         </div>
+        <!-- Barre de séparation -->
         <HR WIDTH="35%">
+        <!-- Projet Claptrap -->
         <div class="projetAcc">
             <div class="text">
                 <h2>Projet Claptrap</h2>
@@ -73,9 +78,13 @@
             <div class="imageProjAcc"><img class="imgProjAcc" src="assets/galerieA/claptrap.png"
                     alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
         </div>
-        <div class="projetAcc2">
-            <div class="imageProjAcc2"><img class="imgProjAcc" src="./assets/sumobot/sumobot_trois.jpg"
-                    alt="Photo des 3 sumobot construit lors de la semaine transverse"></div>
+        <!-- Projet Sumobot -->
+        <div class="projetAcc">
+            <!-- Image du sumobot -->
+            <div class="imageProjAcc2">
+                <img class="imgProjAcc" src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse">
+            </div>
+            <!-- Texte de présentation du projet sumobot -->
             <div class="text">
                 <h2>Projet Sumobot</h2>
                 <p class="textProjAcc">Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
