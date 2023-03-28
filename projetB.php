@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf8">
-    <title>Projet - Club Robotique</title>
+    <title>Projet jeu d'arcade- Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -24,7 +24,7 @@
     <main class="allContProj">
         <div class="contProj">
             <div class="titreProj">
-                <h1 class="titreH">Projet B</h1>
+                <h1 class="titreH">Projet jeu d'arcade</h1>
             </div>
             <div class="presProj">
                 <h2>Présentation</h2>
@@ -34,7 +34,7 @@
                     Voluptas totam reprehenderit, saepe molestias minima ratione perspiciatis recusandae voluptates explicabo distinctio, qui ut a esse, quia praesentium mollitia facere omnis laborum possimus necessitatibus eum? Alias voluptates veniam voluptate rerum?
                     Velit consequuntur harum numquam ab excepturi temporibus corporis atque eveniet ad culpa, earum voluptatum, vel deleniti et. Accusamus, dolores eveniet fugiat, id saepe eum amet nostrum non, expedita porro vel?
                     Nemo sint quos perspiciatis maiores ea. Dolores illum eveniet molestias nisi accusamus aliquid eum iste excepturi commodi, quasi laborum nam deserunt optio deleniti, sapiente in, fugit omnis aspernatur accusantium ratione. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente totam porro commodi neque aliquam accusantium maiores reprehenderit tempore iusto a, quisquam eius eaque ab beatae nisi, et non sed iure!</p></div>
-                    <div><img class="imgProjPres" src="assets/galerieB/legion.webp" alt="Légion nous regarde"></div>
+                    <div><img class="imgProjPres" src="assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
                 </div>
             </div>
             <h3>Partie 1</h3>
@@ -52,7 +52,7 @@
                 Praesentium accusantium reprehenderit architecto, ipsam eligendi modi consequuntur numquam commodi sequi itaque voluptatibus dolorem harum suscipit. Rem ex animi blanditiis, eos nihil nemo magni eligendi veniam laboriosam ea, hic maxime?
                 Natus consequatur deserunt asperiores voluptate sed, distinctio dolorum recusandae voluptatem, minus corporis aliquam vel eius ratione aliquid doloribus error quasi fugit iste! Consequuntur at libero optio molestias iste repellat dignissimos?
                 Eligendi doloremque eius ut ullam fuga ducimus sunt nemo, fugit excepturi doloribus sit minus ad inventore aspernatur. Repudiandae placeat atque dignissimos quia, quibusdam fuga, doloribus vel minus vitae tempore nulla? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam molestiae nisi numquam ex soluta tenetur delectus a debitis, placeat distinctio nemo, est et sequi perspiciatis, obcaecati odio incidunt illum!</p></div>
-            <div><img class="imgProjPres" src="assets/galerieB/legionProto.jpg" alt="Prototype de création legion"></div>  
+            <div><img class="imgProjPres" src="assets/jeuArcade/projet.jpg" alt="Travail heureux"></div>  
             </div>
                 <h3>Partie 3</h3>
             <div class="texteImage blockProj">
@@ -69,7 +69,7 @@
                 Consequatur ratione odio debitis ducimus maiores nesciunt dolorem repudiandae dolore laudantium amet aut ut, cum numquam pariatur ea soluta quasi voluptas voluptatum! Culpa voluptatum cupiditate quia, error nihil doloribus veritatis.
                 Soluta a dignissimos quas ea saepe molestiae quaerat perspiciatis velit placeat adipisci praesentium eum vero voluptas harum unde recusandae blanditiis magni fugit ipsam neque accusantium, aliquam libero incidunt corrupti? Deleniti?
                 Fugiat nam cupiditate suscipit, vitae, vero error fuga eum praesentium ipsam incidunt veniam provident omnis excepturi ullam alias atque ea impedit. Distinctio placeat voluptate impedit nesciunt error sequi, velit tempore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis pariatur dicta aliquam a, vero sit, reiciendis maiores corporis nesciunt sequi atque laboriosam aliquid sed obcaecati culpa. Quidem, repellat. Dolorem, alias.</p></div>
-            <div><img class="imgProjPres" src="assets/galerieB/legionPrime.png" alt="Legion version prime !"></div>  
+            <div><img class="imgProjPres" src="assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe"></div>  
             </div>
             <h3>Partie 5</h3>
             <div class="texteImage blockProj">

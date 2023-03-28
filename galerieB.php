@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="stylesheet" href="galerieA.css">
-    <title>Galerie A - Club Robotique</title>
+    <title>Galerie jeu d'arcade - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 
@@ -22,26 +22,26 @@
 
     <main>
         <div class="titrePart">
-            <h1 class="titreH">Galerie Projet A</h1>
+            <h1 class="titreH">Galerie jeu d'arcade</h1>
         </div>
 
         <div class="carrousel">
             <div class="slider">
                 <div class="slide">
                     <div id="slide1" class="blurry-bg"></div>
-                    <img src="./assets/galerieB/legionProto.jpg" alt="Prototype de création legion" />
+                    <img src="./assets/jeuArcade/arcade.jpg" alt="Equipe heureuse" />
                 </div>
                 <div class="slide">
                     <div id="slide2" class="blurry-bg"></div>
-                    <img src="./assets/galerieB/legion.webp" alt="Légion nous regarde" />
+                    <img src="./assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe" />
                 </div>
                 <div class="slide">
                     <div id="slide3" class="blurry-bg"></div>
-                    <img src="./assets/galerieB/legionBrasOuvert.jpeg" alt="Legion ouvre ses bras au monde" />
+                    <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit" />
                 </div>
                 <div class="slide">
                     <div id="slide4" class="blurry-bg"></div>
-                    <img src="./assets/galerieB/legionPrime.png" alt="Legion version prime !" />
+                    <img src="./assets/jeuArcade/projet.jpg" alt="Travail heureux" />
                 </div>
 
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
@@ -51,16 +51,16 @@
 
             <div class="gallery">
                 <div class="minia selected">
-                    <img src="./assets/galerieB/legionProto.jpg" alt="Prototype de création legion" />
+                    <img src="./assets/jeuArcade/arcade.jpg" alt="Equipe heureuse" />
                 </div>
                 <div class="minia">
-                    <img src="./assets/galerieB/legion.webp" alt="Légion nous regarde" />
+                    <img src="./assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe" />
                 </div>
                 <div class="minia">
-                    <img src="./assets/galerieB/legionBrasOuvert.jpeg" alt="Legion ouvre ses bras au monde" />
+                    <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit" />
                 </div>
                 <div class="minia">
-                    <img src="./assets/galerieB/legionPrime.png" alt="Legion version prime !" />
+                    <img src="./assets/jeuArcade/projet.jpg" alt="Travail heureux" />
                 </div>
             </div>
         </div>
