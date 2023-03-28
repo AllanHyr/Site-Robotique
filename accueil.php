@@ -20,8 +20,8 @@
 </head>
 
 <body class="accueil">
+    <?php include('navbar.html'); ?>
     <main class="accueilCont">
-        <?php include('navbar.html'); ?>
         <div class="titre">
         <h1 class="titreH">Club de robotique</h1>
         </div>
@@ -83,6 +83,6 @@
                 </p>
             </div>
         </div>
-        <?php include('footer.html'); ?>
     </main>
+    <?php include('footer.html'); ?>
 </body>
