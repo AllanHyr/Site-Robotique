@@ -1,20 +1,28 @@
+/* main */
 .mainProj    {
     display: flex;
     justify-content: center;
     background: #E7F0FF;
 }
+/* balise div */
 .allContent {
     width: 80%;
 }
+
+/* titre des projets */
 .titreProjets  {
     display: flex;
     height: 10em;
     flex-flow: row;
     justify-content: center;
 }
+
+/* titre principale */
 .titreH {
     padding-top: 1.2em;
 }
+
+/* texte des projets */
 .texteProjx {
     display: flex;
     width: 50%;
@@ -23,6 +31,8 @@
     text-align: center;
     align-items: center;
 }
+
+/* div de l'image des projets */
 .imageProjx {
     display: flex;
     width: 50%;
@@ -30,6 +40,8 @@
     align-items: center;
     justify-content: center;
 }
+
+/* conteneur des projets */
 .imageTexteProjets  {
     display: flex;
     flex-direction: row;
@@ -37,21 +49,29 @@
     background: #ececec ;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
+
+/* image du projet */
 .imgProjx   {
     max-height: 550px;
     max-width: 100%;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
 }
+
+/* conteneur des boutons */
 .bouton {
     display: flex;
     justify-content: space-around;
     width: 100%;
 }
+
+/* description du projet */
 .textProjx2 {
     display: flex;
     height: 100%;
     align-items: center;
 }
+
+/* bouton de projet */
 .boutonProj  {
     background: #44658f;
     color: white;
@@ -64,10 +84,14 @@
     font-size: 1.3em;
     font-family: 'Work Sans', sans-serif;
 }
+
+/* effet hover du bouton */
 .boutonProj:hover   {
     cursor: pointer;
     background: #FDB815;
 }
+
+/* responsive */
 @media (max-width: 1100px)	{
     .imageProjx {
         width: 100%;
