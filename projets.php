@@ -8,8 +8,8 @@
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="projets.css">
     <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="projets.css">
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -114,3 +114,4 @@
     </main>
     <?php include('footer.html'); ?>
 </body>
+</html>
