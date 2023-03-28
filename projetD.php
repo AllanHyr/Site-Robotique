@@ -22,11 +22,14 @@
 <body>
     <?php include('navbar.html'); ?>
     <main class="allContProj">
-        <div class="contProj">
+
+        <div class="contProj">      <!-- Limite la width du contenu a 80% -->
+
             <div class="titreProj">
-                <h1 class="titreH">Atelier Soudure</h1>
+                <h1 class="titreH">Atelier Soudure</h1>     <!-- Titre Principal de la page -->
             </div>
-            <div class="presProj">
+
+            <div class="presProj">      <!-- Zone présentation projet -->
                 <h2>Présentation</h2>
                 <div class="texteImage blockProj">
                     <div class="projetTexte"> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ut ex aliquam tempora. Dolorem libero, vitae ex fugit ab minima, laboriosam consequatur rem sunt maxime at dicta dolores, et beatae.
@@ -37,6 +40,7 @@
                     <div><img class="imgProjPres" src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot"></div>
                 </div>
             </div>
+            <!-- partie 1 projet -->
             <h3>Partie 1</h3>
             <div class="texteImage blockProj">
                 <div class="blockProj"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad eum aspernatur eaque molestiae tempore nihil ipsam nisi? Inventore totam esse voluptatum quam culpa, officia, illo fugiat, recusandae nemo repellat ratione?
@@ -45,6 +49,7 @@
                 Aliquid quod laboriosam deserunt provident commodi debitis veniam corrupti enim molestiae, illo voluptates facilis id libero totam assumenda. Officia, nobis. Alias consequatur reiciendis voluptate amet ex est doloribus! Assumenda, eum?
                 Magni veritatis libero tenetur velit mollitia molestias? Nostrum molestiae obcaecati reiciendis et perferendis neque? Quidem, officia quibusdam sunt dolor delectus impedit reprehenderit pariatur aspernatur, similique, minima minus. Autem, eveniet aliquam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae id, ullam, sapiente adipisci et aspernatur quis voluptatem obcaecati nemo, quo illum. Reprehenderit modi, labore assumenda aut accusamus voluptate est laboriosam?</p></div>    
             </div>
+            <!-- partie 2 projet -->
             <h3>Partie 2</h3>
             <div class="texteImage blockProj">
                 <div class="blockProj"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, quibusdam. Laborum sit vitae consequatur in? Blanditiis in voluptatum labore mollitia iusto at? Beatae placeat perspiciatis molestiae assumenda iure repellendus facilis.
@@ -54,6 +59,7 @@
                 Eligendi doloremque eius ut ullam fuga ducimus sunt nemo, fugit excepturi doloribus sit minus ad inventore aspernatur. Repudiandae placeat atque dignissimos quia, quibusdam fuga, doloribus vel minus vitae tempore nulla? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam molestiae nisi numquam ex soluta tenetur delectus a debitis, placeat distinctio nemo, est et sequi perspiciatis, obcaecati odio incidunt illum!</p></div>  
                 <div><img class="imgProjPres" src="./assets/Atelier_soudure/elody.jpg" alt="élody soude, maewenn et eloïc regarde"></div>
             </div>
+            <!-- partie 3 projet -->
                 <h3>Partie 3</h3>
             <div class="texteImage blockProj">
                 <div class="projetTxt"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum voluptas reprehenderit quo error distinctio reiciendis. Aspernatur veniam pariatur nulla officiis vero esse, eligendi blanditiis labore odio accusamus aliquid delectus dolores!
@@ -63,6 +69,7 @@
                 Totam sed laboriosam quaerat atque delectus praesentium sequi quae odit quisquam iusto consequatur veritatis corrupti suscipit, placeat facere doloremque voluptas tenetur! Omnis nam soluta, fugit maxime sapiente molestiae eaque esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sed consectetur deleniti maiores, est et quod odit magni ipsam explicabo? Distinctio eum optio nulla doloremque ea quaerat velit id consequatur.</p></div>
                 <div><img class="imgProjPres" src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder"></div>
             </div>
+            <!-- partie 4 projet -->
             <h3>Partie 4</h3>
             <div class="texteImage blockProj">
                 <div class="blockProj"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi quo labore doloribus illum, ullam, dolores sunt cumque, minima non atque quis explicabo! Eligendi, aliquid. Molestiae reprehenderit sequi incidunt recusandae iure!
@@ -71,6 +78,7 @@
                 Soluta a dignissimos quas ea saepe molestiae quaerat perspiciatis velit placeat adipisci praesentium eum vero voluptas harum unde recusandae blanditiis magni fugit ipsam neque accusantium, aliquam libero incidunt corrupti? Deleniti?
                 Fugiat nam cupiditate suscipit, vitae, vero error fuga eum praesentium ipsam incidunt veniam provident omnis excepturi ullam alias atque ea impedit. Distinctio placeat voluptate impedit nesciunt error sequi, velit tempore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis pariatur dicta aliquam a, vero sit, reiciendis maiores corporis nesciunt sequi atque laboriosam aliquid sed obcaecati culpa. Quidem, repellat. Dolorem, alias.</p></div>  
             </div>
+            <!-- partie 5 projet -->
             <h3>Partie 5</h3>
             <div class="texteImage blockProj">
                 <div class="blockProj"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab itaque exercitationem possimus. Esse distinctio soluta odit neque repudiandae dolorem voluptas ad expedita. Facilis tempore temporibus aut? Consectetur ut ratione consequatur.
@@ -79,7 +87,6 @@
                 At accusamus explicabo eos libero saepe unde error commodi corporis quas numquam, sed ipsa. Minus, ad consequatur. Ducimus aliquid dolorum fugit eligendi esse, distinctio magnam asperiores deserunt perferendis voluptatum sequi!
                 Eum ea labore voluptatibus nisi minus ex, quasi magnam! Itaque error debitis laboriosam vel nihil! Laudantium autem eaque nostrum beatae repellendus veritatis. Eius ut ab possimus expedita illo aspernatur quod! Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur odit provident illo deserunt dignissimos, eligendi nesciunt praesentium vero omnis voluptatem natus dolores architecto perspiciatis. Itaque numquam sit est expedita nam?</p></div>
             </div>
-        </div>
         </div>
     </main>
     <?php include('footer.html'); ?>

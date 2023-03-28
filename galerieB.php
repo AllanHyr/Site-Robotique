@@ -21,35 +21,40 @@
     <?php include('navbar.html'); ?>
 
     <main>
+        <!-- div pour le titre de la galerie -->
         <div class="titrePart">
             <h1 class="titreH">Galerie Jeu d'arcade</h1>
         </div>
-
+        <!-- div pour le carrousel a image -->
         <div class="carrousel">
+            <!-- div avec les grandes images    -->
             <div class="slider">
+                <!-- div image -->
                 <div class="slide">
                     <div id="slide1" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/projet.jpg" alt="Travail heureux">
                 </div>
+                <!-- div image -->
                 <div class="slide">
                     <div id="slide2" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit">
                 </div>
+                <!-- div image -->
                 <div class="slide">
                     <div id="slide3" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe">
-
                 </div>
+                <!-- div image -->
                 <div class="slide">
                     <div id="slide4" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit">
                 </div>
-
+                    <!-- boutton pour slide -->
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
                 <button class="btn btn-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                 <span class="photos-counter">0/0</span>
             </div>
-
+            <!-- div avec les images en dessous du carrousel -->
             <div class="gallery">
                 <div class="minia selected">
                     <img src="./assets/jeuArcade/arcade.jpg" alt="Equipe heureuse">
@@ -65,8 +70,8 @@
                 </div>
             </div>
         </div>
-<!-- 
-        <HR WIDTH="35%"> -->
+
+        <!-- <HR WIDTH="35%"> -->
 
         <div class="container-video">
             <!-- <video controls class="yt">
@@ -80,7 +85,7 @@
         </div>
 
         <HR WIDTH="35%">
-
+         <!-- div avec la vidéo -->
         <div class="fullscreen"></div>
     </main>
 

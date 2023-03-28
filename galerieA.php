@@ -21,12 +21,14 @@
     <?php include('navbar.html'); ?>
 
     <main>
-        <div class="titrePart">
+        <!-- div pour le titre de la galerie -->
+        <div class="titrePart"> 
             <h1 class="titreH">Galerie Claptrap</h1>
         </div>
-
-        <div class="carrousel">
-            <div class="slider">
+        <!-- div pour le carrousel a image -->
+        <div class="carrousel">  
+            <!-- div avec les grandes images    -->
+            <div class="slider"> 
                 <div class="slide">
                     <div id="slide1" class="blurry-bg"></div>
                     <img src="./assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands">
@@ -52,7 +54,7 @@
                 <button class="btn btn-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                 <span class="photos-counter">0/0</span>
             </div>
-
+            <!-- div avec les images en dessous du carrousel -->
             <div class="gallery">
                 <div class="minia selected">
                     <img src="./assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands">
@@ -73,7 +75,7 @@
         </div>
 
         <HR WIDTH="35%">
-
+        <!-- div avec la vidéo -->
         <div class="container-video">
             <video controls class="yt">
                 <source src="./assets/galerieA/sumobot.mp4" />
@@ -87,7 +89,6 @@
 
         <HR WIDTH="35%">
 
-        <div class="fullscreen"></div>
     </main>
 
 
