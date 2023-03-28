@@ -25,7 +25,7 @@
 
         <div class="titrePage"><h1 class="titreContact">Nous contacter</h1></div>
 
-        <div class="horizontal" id="all">
+        <div class="horizontal all">
             <div class="verticale map" id="carte">
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2646.6872868503433!2d-4.4146477844832175!3d48.44334127924898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4816b079f2289ea7%3A0xf5b14f10982347f4!2s230%20Rue%20Rolland%20Garros%2C%2029490%20Guipavas!5e0!3m2!1sfr!2sfr!4v1675671912604!5m2!1sfr!2sfr"
@@ -66,7 +66,7 @@
         </div>
 
 
-        <div class="horizontal contact" id="all">
+        <div class="horizontal contact all">
             <div class="email-bloc">
                 <p class="titre" >Où nous envoyer un message ?</p>
                 <p class="texteCont">Lorem ipsum dolor sit amet, consectetur a</p>

@@ -3,7 +3,7 @@
 <html lang="fr">
 
 <head>
-    <meta charset="utf8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Accueil - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
@@ -20,8 +20,8 @@
 </head>
 
 <body class="accueil">
-    <?php include('navbar.html'); ?>
     <main class="accueilCont">
+        <?php include('navbar.html'); ?>
         <div class="titre">
         <h1 class="titreH">Club de robotique</h1>
         </div>

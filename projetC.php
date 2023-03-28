@@ -3,7 +3,7 @@
 <html lang="fr">
 
 <head>
-    <meta charset="utf8">
+    <meta charset="utf-8">
     <title>Projet Sumobot- Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

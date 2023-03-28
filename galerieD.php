@@ -29,19 +29,19 @@
             <div class="slider">
                 <div class="slide">
                     <div id="slide1" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois" />
+                    <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois">
                 </div>
                 <div class="slide">
                     <div id="slide2" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/elodie.jpg" alt="élodie soude, maewenn et eloïc regarde" />
+                    <img src="./assets/Atelier_soudure/elodie.jpg" alt="élodie soude, maewenn et eloïc regarde">
                 </div>
                 <div class="slide">
                     <div id="slide3" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder" />
+                    <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder">
                 </div>
                 <div class="slide">
                     <div id="slide4" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot" />
+                    <img src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot">
                 </div>
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
                 <button class="btn btn-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
@@ -50,16 +50,16 @@
 
             <div class="gallery">
                 <div class="minia selected">
-                    <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois" />
+                    <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois">
                 </div>
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/elodie.jpg" alt="élodie soude, maewenn et eloïc regarde" />
+                    <img src="./assets/Atelier_soudure/elodie.jpg" alt="élodie soude, maewenn et eloïc regarde">
                 </div>
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder" />
+                    <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder">
                 </div>
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot" />
+                    <img src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot">
                 </div>
             </div>
         </div>

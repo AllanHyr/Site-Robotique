@@ -132,7 +132,7 @@ form  {
 /*responsive*/
 
 @media (max-width: 1100px){
-  #all {
+  .all {
     display: flex;
     flex-flow: column;
   }
