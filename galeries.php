@@ -22,20 +22,28 @@
 <body class="galCont">
     <?php include('navbar.html'); ?>
     <main>
+        <!-- titre principale -->
         <div class="titreGal">
             <h1 class="titreH">Galeries</h1>
         </div>
+        <!-- bloc qui contient 2 projets -->
         <div class="bigBlockGal">
+            <!-- un bloc de projet -->
             <div class="blockGal">
+                <!-- l'image du projet -->
                 <div class="imageGal"><img class="imgGal" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
+                <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a class="boutonGal" href="projetA.php">Projet</a>
                     <p class="projT">Projet Claptrap</p>
                     <a href="galerieA.php" class="boutonGal">Galerie</a>
                 </div>
             </div>
+            <!-- un bloc de projet -->
             <div class="blockGal">
+                <!-- l'image du projet -->
                 <div class="imageGal"><img class="imgGal" src="assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
+                <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a href="projetB.php" class="boutonGal">Projet</a>
                     <p class="projT">Projet Jeu d'arcade</p>
@@ -44,17 +52,24 @@
             </div>
         </div>
         <HR class="barreGal" WIDTH="35%">
+        <!-- bloc qui contient 2 projets -->
         <div class="bigBlockGal">
+            <!-- un bloc de projet -->
             <div class="blockGal">
+                <!-- l'image du projet -->
                 <div class="imageGal"><img class="imgGal" src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse"></div>
+                <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a href="projetC.php" class="boutonGal">Projet</a>
                     <p class="projT">Projet Sumobot</p>
                     <a class="boutonGal" href="galerieC.php">Galerie</a>
                 </div>
             </div>
+            <!-- un bloc de projet -->
             <div class="blockGal">
+                <!-- l'image du projet -->
                 <div class="imageGal"><img class="imgGal" src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot"></div>
+                <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a href="projetD.php" class="boutonGal">Projet</a>
                     <p class="projT">Atelier Soudure</p>
