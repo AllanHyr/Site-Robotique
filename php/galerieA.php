@@ -9,45 +9,55 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans&family=Raleway&family=Work+Sans&display=swap">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
-    <link rel="stylesheet" href="galerieA.css">
-    <title>Atelier de soudure - Club Robotique</title>
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/galerieA.css">
+    <title>Galerie Claptrap - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
 
 <body>
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
 
     <main>
         <!-- div pour le titre de la galerie -->
-        <div class="titrePart">
-            <h1 class="titreH">Atelier de soudure</h1>
+        <div class="titrePart"> 
+            <h1 class="titreH">Galerie Claptrap</h1>
         </div>
         <!-- div pour le carrousel a image -->
-        <div class="carrousel">
+        <div class="carrousel">  
             <!-- div avec les grandes images    -->
-            <div class="slider">
+            <div class="slider"> 
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide13" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois">
+                    <!-- div background flou  -->
+                    <div id="slide1" class="blurry-bg"></div>
+                    <img src="../assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands">
                 </div>
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide14" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/elody.jpg" alt="élody soude, maewenn et eloïc regarde">
+                    <!-- div background flou  -->
+                    <div id="slide2" class="blurry-bg"></div>
+                    <img src="../assets/galerieA/claptrap_pose.jpeg" alt="Claptrap qui fait le beau">
                 </div>
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide15" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder">
+                    <!-- div background flou  -->
+                    <div id="slide3" class="blurry-bg"></div>
+                    <img src="../assets/galerieA/claptrap_home.jpg" alt="Claptrap en bas du bloc">
                 </div>
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide16" class="blurry-bg"></div>
-                    <img src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot">
+                    <!-- div background flou  -->
+                    <div id="slide4" class="blurry-bg"></div>
+                    <img src="../assets/galerieA/claptrap_freehugs.jpg" alt="Claptrap en convention Manga">
+                </div>
+                <!-- div image -->
+                <div class="slide">
+                    <!-- div background flou  -->
+                    <div id="slide5" class="blurry-bg"></div>
+                    <img src="../assets/galerieA/claptrap_drunk.jpg" alt="Claptrap qui boit de l'alcool">
                 </div>
                     <!-- boutton pour slide -->
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
@@ -58,19 +68,23 @@
             <div class="gallery">
             <!-- div miniature  selectionnée-->
                 <div class="minia selected">
-                    <img src="./assets/Atelier_soudure/tom.jpg" alt="tom qui soude pour la prmeière fois">
+                    <img src="../assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands">
                 </div>
             <!-- div miniature  -->
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/elody.jpg" alt="élody soude, maewenn et eloïc regarde">
+                    <img src="../assets/galerieA/claptrap_pose.jpeg" alt="Claptrap qui fait le beau">
                 </div>
             <!-- div miniature  -->
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/justine.jpg" alt="justine en train de se préparer à souder">
+                    <img src="../assets/galerieA/claptrap_home.jpg" alt="Claptrap en bas du bloc">
                 </div>
             <!-- div miniature  -->
                 <div class="minia">
-                    <img src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot">
+                    <img src="../assets/galerieA/claptrap_freehugs.jpg" alt="Claptrap en convention Manga">
+                </div>
+            <!-- div miniature  -->
+                <div class="minia">
+                    <img src="../assets/galerieA/claptrap_drunk.jpg" alt="Claptrap qui boire de l'alcool">
                 </div>
             </div>
         </div>
@@ -79,7 +93,7 @@
         <!-- div avec la vidéo -->
         <div class="container-video">
             <video controls class="yt">
-                <source src="./assets/galerieA/sumobot.mp4" />
+                <source src="../assets/galerieA/sumobot.mp4" />
             </video>
             <!-- <iframe class="yt" src="https://www.youtube.com/embed/QCqxOzKNFks"
                 title="YouTube video player" frameborder="0"
@@ -90,12 +104,11 @@
 
         <HR WIDTH="35%">
 
-        <div class="fullscreen"></div>
     </main>
 
 
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 
-<script src="carrousel.js"></script>
+<script src="../js/carrousel.js"></script>
 </html>

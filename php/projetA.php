@@ -8,10 +8,10 @@
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="projetA.css">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/projetA.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -20,7 +20,7 @@
 </head>
 
 <body>
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
     <main class="allContProj">
             <div class="contProj">   <!-- Limite la width du contenu a 80% -->
 
@@ -36,7 +36,7 @@
                     Voluptas totam reprehenderit, saepe molestias minima ratione perspiciatis recusandae voluptates explicabo distinctio, qui ut a esse, quia praesentium mollitia facere omnis laborum possimus necessitatibus eum? Alias voluptates veniam voluptate rerum?
                     Velit consequuntur harum numquam ab excepturi temporibus corporis atque eveniet ad culpa, earum voluptatum, vel deleniti et. Accusamus, dolores eveniet fugiat, id saepe eum amet nostrum non, expedita porro vel?
                     Nemo sint quos perspiciatis maiores ea. Dolores illum eveniet molestias nisi accusamus aliquid eum iste excepturi commodi, quasi laborum nam deserunt optio deleniti, sapiente in, fugit omnis aspernatur accusantium ratione. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente totam porro commodi neque aliquam accusantium maiores reprehenderit tempore iusto a, quisquam eius eaque ab beatae nisi, et non sed iure!</p></div>
-                    <div><img class="imgProjPres" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
+                    <div><img class="imgProjPres" src="../assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
                 </div>
             </div>
             <!-- partie 1 projet -->
@@ -61,7 +61,7 @@
                 Accusantium officiis accusamus facere saepe in nisi illo sit impedit est iusto possimus enim similique aperiam nostrum neque eligendi odit optio doloribus asperiores aspernatur cum, quo velit! Repellendus, debitis dolores.
                 Saepe debitis fugiat distinctio, eligendi illo expedita maxime id quasi illum dignissimos vero dolor accusamus inventore soluta aspernatur sint. Illo libero vel in magni nobis illum expedita laboriosam modi dolore!
                 Totam sed laboriosam quaerat atque delectus praesentium sequi quae odit quisquam iusto consequatur veritatis corrupti suscipit, placeat facere doloremque voluptas tenetur! Omnis nam soluta, fugit maxime sapiente molestiae eaque esse! Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga sed consectetur deleniti maiores, est et quod odit magni ipsam explicabo? Distinctio eum optio nulla doloremque ea quaerat velit id consequatur.</p></div>
-                <div><img class="imgProjPart" src="assets/galerieA/claptrap_pose.jpeg" alt="Claptrap qui fait le beau"></div>
+                <div><img class="imgProjPart" src="../assets/galerieA/claptrap_pose.jpeg" alt="Claptrap qui fait le beau"></div>
             </div>
             <!-- partie 4 projet -->
             <h3>Partie 4</h3>
@@ -79,7 +79,7 @@
             Eum ea labore voluptatibus nisi minus ex, quasi magnam! Itaque error debitis laboriosam vel nihil! Laudantium autem eaque nostrum beatae repellendus veritatis. Eius ut ab possimus expedita illo aspernatur quod! Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur odit provident illo deserunt dignissimos, eligendi nesciunt praesentium vero omnis voluptatem natus dolores architecto perspiciatis. Itaque numquam sit est expedita nam?</p></div>
         </div>
     </main>
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 
 </html>

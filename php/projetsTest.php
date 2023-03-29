@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="projetsTest.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/projetsTest.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;1,400&family=Roboto&family=Work+Sans&display=swap" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
     <main>
         <div class="titreProjets">
                 <h1 class="titreH">Projets</h1>
@@ -57,6 +57,6 @@
             </div>
         </div>
     </main>
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 </html>

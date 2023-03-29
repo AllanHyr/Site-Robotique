@@ -24,7 +24,7 @@
     justify-content: center;
     text-align: center;
     box-shadow: 1px 1px 13px -2px rgba(0,0,0,0.54);
-    background-image:linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(assets/banniererobotique.avif);
+    background-image:linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url(../assets/banniererobotique.avif);
     background-size: 100%;
 }
 
