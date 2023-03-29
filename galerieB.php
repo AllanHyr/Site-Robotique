@@ -31,22 +31,26 @@
             <div class="slider">
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide1" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide6" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/projet.jpg" alt="Travail heureux">
                 </div>
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide2" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide7" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit">
                 </div>
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide3" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide8" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe">
                 </div>
                 <!-- div image -->
                 <div class="slide">
-                    <div id="slide4" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide9" class="blurry-bg"></div>
                     <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit">
                 </div>
                     <!-- boutton pour slide -->
@@ -56,15 +60,19 @@
             </div>
             <!-- div avec les images en dessous du carrousel -->
             <div class="gallery">
+            <!-- div miniature  -->
                 <div class="minia selected">
                     <img src="./assets/jeuArcade/arcade.jpg" alt="Equipe heureuse">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/jeuArcade/imageGroupe.jpg" alt="Travail de groupe">
                 </div>
+                            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/jeuArcade/projet.jpg" alt="Travail heureux">
                 </div>

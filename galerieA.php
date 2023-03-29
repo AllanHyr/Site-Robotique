@@ -29,45 +29,60 @@
         <div class="carrousel">  
             <!-- div avec les grandes images    -->
             <div class="slider"> 
+                <!-- div image -->
                 <div class="slide">
+                    <!-- div background flou  -->
                     <div id="slide1" class="blurry-bg"></div>
                     <img src="./assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands">
                 </div>
+                <!-- div image -->
                 <div class="slide">
+                    <!-- div background flou  -->
                     <div id="slide2" class="blurry-bg"></div>
                     <img src="./assets/galerieA/claptrap_pose.jpeg" alt="Claptrap qui fait le beau">
                 </div>
+                <!-- div image -->
                 <div class="slide">
+                    <!-- div background flou  -->
                     <div id="slide3" class="blurry-bg"></div>
                     <img src="./assets/galerieA/claptrap_home.jpg" alt="Claptrap en bas du bloc">
                 </div>
+                <!-- div image -->
                 <div class="slide">
+                    <!-- div background flou  -->
                     <div id="slide4" class="blurry-bg"></div>
                     <img src="./assets/galerieA/claptrap_freehugs.jpg" alt="Claptrap en convention Manga">
                 </div>
+                <!-- div image -->
                 <div class="slide">
+                    <!-- div background flou  -->
                     <div id="slide5" class="blurry-bg"></div>
                     <img src="./assets/galerieA/claptrap_drunk.jpg" alt="Claptrap qui boit de l'alcool">
                 </div>
-
+                    <!-- boutton pour slide -->
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
                 <button class="btn btn-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                 <span class="photos-counter">0/0</span>
             </div>
             <!-- div avec les images en dessous du carrousel -->
             <div class="gallery">
+            <!-- div miniature  selectionnée-->
                 <div class="minia selected">
                     <img src="./assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/galerieA/claptrap_pose.jpeg" alt="Claptrap qui fait le beau">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/galerieA/claptrap_home.jpg" alt="Claptrap en bas du bloc">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/galerieA/claptrap_freehugs.jpg" alt="Claptrap en convention Manga">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/galerieA/claptrap_drunk.jpg" alt="Claptrap qui boire de l'alcool">
                 </div>

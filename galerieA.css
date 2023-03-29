@@ -165,27 +165,67 @@ body {
 }
 /* tout les background flou */
 #slide1 {
-    background-image: url("./assets/carrousel/1.jpg");
+    background-image: url("./assets/galerieA/claptrap.png");
 }
 
 #slide2 {
-    background-image: url("./assets/carrousel/2.jpg");
+    background-image: url("./assets/galerieA/claptrap_pose.jpeg");
 }
 
 #slide3 {
-    background-image: url("./assets/carrousel/3.jpg");
+    background-image: url("./assets/galerieA/claptrap_home.jpg");
 }
 
 #slide4 {
-    background-image: url("./assets/carrousel/4.jpg");
+    background-image: url("./assets/galerieA/claptrap_freehugs.jpg");
 }
 
 #slide5 {
-    background-image: url("./assets/carrousel/5.jpg");
+    background-image: url("./assets/galerieA/claptrap_drunk.jpg");
 }
 
 #slide6 {
-    background-image: url("./assets/carrousel/6.png");
+    background-image: url("./assets/jeuArcade/projet.jpg");
+}
+
+#slide7 {
+    background-image: url("./assets/jeuArcade/reflexion.jpg");
+}
+
+#slide8 {
+    background-image: url("./assets/jeuArcade/imageGroupe.jpg");
+}
+
+#slide9 {
+    background-image: url("./assets/jeuArcade/reflexion.jpg");
+}
+
+#slide10 {
+    background-image: url("./assets/sumobot/pièces.jpg");
+}
+
+#slide11 {
+    background-image: url("./assets/sumobot/sumobotHaut.jpg");
+}
+
+#slide12 {
+    background-image: url("./assets/sumobot/sumobot_trois.jpg");
+}
+
+#slide13 {
+    background-image: url("./assets/Atelier_soudure/tom.jpg");
+}
+
+#slide14 {
+    background-image: url("./assets/Atelier_soudure/elodie.jpg");
+}
+
+#slide15 {
+    background-image: url("./assets/Atelier_soudure/justine.jpg");
+}
+
+#slide16 {
+    background-image: url("./assets/Atelier_soudure/soudure_sumobot.jpg");
 }
 /* div titre galerie */
 .titrePart  {

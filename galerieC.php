@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="footer.css">
-    <link rel="stylesheet" href="galerieC.css">
+    <link rel="stylesheet" href="galerieA.css">
     <title>Galerie Sumobot - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
 </head>
@@ -21,36 +21,48 @@
     <?php include('navbar.html'); ?>
 
     <main>
+        <!-- div pour le titre de la galerie -->
         <div class="titrePart">
             <h1 class="titreH">Galerie Sumobot</h1>
         </div>
-
+        <!-- div pour le carrousel a image -->
         <div class="carrousel">
+            <!-- div avec les grandes images    -->
             <div class="slider">
+                <!-- div image -->
                 <div class="slide">
-                    <div id="slide1" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide10" class="blurry-bg"></div>
                     <img src="./assets/sumobot/pièces.jpg" alt="Ensemble de pièces pour construire le robot">
                 </div>
+                <!-- div image -->
                 <div class="slide">
-                    <div id="slide2" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide11" class="blurry-bg"></div>
                     <img src="./assets/sumobot/sumobotHaut.jpg" alt="Photo du sumobot de haut">
                 </div>
+                <!-- div image -->
                 <div class="slide">
-                    <div id="slide3" class="blurry-bg"></div>
+                    <!-- div background flou  -->
+                    <div id="slide12" class="blurry-bg"></div>
                     <img src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse">
                 </div>
+                    <!-- boutton pour slide -->
                 <button class="btn btn-prev"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
                 <button class="btn btn-next"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                 <span class="photos-counter">0/0</span>
             </div>
-
+            <!-- div avec les images en dessous du carrousel -->
             <div class="gallery">
+            <!-- div miniature  selectionnée-->
                 <div class="minia selected">
                     <img src="./assets/sumobot/pièces.jpg" alt="Ensemble de pièces pour construire le robot">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/sumobot/sumobotHaut.jpg" alt="Photo du sumobot de haut">
                 </div>
+            <!-- div miniature  -->
                 <div class="minia">
                     <img src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse">
                 </div>
@@ -58,7 +70,7 @@
         </div>
 
         <HR WIDTH="35%">
-
+        <!-- div avec la vidéo -->
         <div class="container-video">
             <video controls class="yt">
                 <source src="./assets/galerieA/sumobot.mp4" />
