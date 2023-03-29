@@ -8,10 +8,10 @@
     <title>Accueil - Club Robotique</title>
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="mentions.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/mentions.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -20,7 +20,7 @@
 </head>
 
 <body class="accueil">
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
     <main>
         <div class="containerMention">
             <div class="titre">
@@ -143,6 +143,6 @@
             </div>
         </div>
     </main>
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 </html>

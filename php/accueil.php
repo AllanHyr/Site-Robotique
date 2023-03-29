@@ -9,9 +9,9 @@
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="accueil.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/accueil.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -20,7 +20,7 @@
 </head>
 
 <body class="accueil">
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
     <main class="accueilCont">
         <!-- Cette div permet d'affiché le titre principal -->
         <div class="titre">
@@ -54,7 +54,7 @@
                 </p>
             </div>
             <!-- Image de présentation -->
-            <div class="imagePres"><img class="imgPres" src="assets/reflexionRobot.jpg" alt="Un robot pensif regardant vers la gauche"></div>
+            <div class="imagePres"><img class="imgPres" src="../assets/reflexionRobot.jpg" alt="Un robot pensif regardant vers la gauche"></div>
         </div>
         <!-- Barre de séparation -->
         <HR WIDTH="35%">
@@ -75,14 +75,14 @@
                     molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
                 </p>
             </div>
-            <div class="imageProjAcc"><img class="imgProjAcc" src="assets/galerieA/claptrap.png"
+            <div class="imageProjAcc"><img class="imgProjAcc" src="../assets/galerieA/claptrap.png"
                     alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
         </div>
         <!-- Projet Sumobot -->
         <div class="projetAcc">
             <!-- Image du sumobot -->
             <div class="imageProjAcc2">
-                <img class="imgProjAcc" src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse">
+                <img class="imgProjAcc" src="../assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse">
             </div>
             <!-- Texte de présentation du projet sumobot -->
             <div class="text">
@@ -102,7 +102,7 @@
             </div>
         </div>
     </main>
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 
 </html>

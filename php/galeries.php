@@ -8,10 +8,10 @@
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="galeries.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/galeries.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -20,7 +20,7 @@
 </head>
 
 <body class="galCont">
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
     <main>
         <!-- titre principale -->
         <div class="titreGal">
@@ -31,7 +31,7 @@
             <!-- un bloc de projet -->
             <div class="blockGal">
                 <!-- l'image du projet -->
-                <div class="imageGal"><img class="imgGal" src="assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
+                <div class="imageGal"><img class="imgGal" src="../assets/galerieA/claptrap.png" alt="Claptrap qui nous pointe avec une Fatale de Borderlands"></div>
                 <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a class="boutonGal" href="projetA.php">Projet</a>
@@ -42,7 +42,7 @@
             <!-- un bloc de projet -->
             <div class="blockGal">
                 <!-- l'image du projet -->
-                <div class="imageGal"><img class="imgGal" src="assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
+                <div class="imageGal"><img class="imgGal" src="../assets/jeuArcade/reflexion.jpg" alt="Une équipe qui refléchit"></div>
                 <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a href="projetB.php" class="boutonGal">Projet</a>
@@ -57,7 +57,7 @@
             <!-- un bloc de projet -->
             <div class="blockGal">
                 <!-- l'image du projet -->
-                <div class="imageGal"><img class="imgGal" src="./assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse"></div>
+                <div class="imageGal"><img class="imgGal" src="../assets/sumobot/sumobot_trois.jpg" alt="Photo des 3 sumobot construit lors de la semaine transverse"></div>
                 <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a href="projetC.php" class="boutonGal">Projet</a>
@@ -68,7 +68,7 @@
             <!-- un bloc de projet -->
             <div class="blockGal">
                 <!-- l'image du projet -->
-                <div class="imageGal"><img class="imgGal" src="./assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot"></div>
+                <div class="imageGal"><img class="imgGal" src="../assets/Atelier_soudure/soudure_sumobot.jpg" alt="soudure pour un sumobot"></div>
                 <!-- les boutons du projets -->
                 <div class="miniBlockGal">
                     <a href="projetD.php" class="boutonGal">Projet</a>
@@ -78,6 +78,6 @@
             </div>
         </div>
     </main>
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 </html>

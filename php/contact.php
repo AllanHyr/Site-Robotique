@@ -6,10 +6,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="contact.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/contact.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Montserrat&family=Public+Sans&family=Roboto&family=Work+Sans&display=swap"> <!-- mettre la police "public-sans", "roboto" et "work-sans" -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -19,7 +19,7 @@
 
 
 <body>
-    <?php include('navbar.html'); ?> <!-- php pour inclure le header à la page -->
+    <?php include('../html/navbar.html'); ?> <!-- php pour inclure le header à la page -->
 
     <main class="contactCont">
 
@@ -83,7 +83,7 @@
 
     </main>
 
-    <?php include('footer.html'); ?> <!-- php pour inclure le footer à la page -->
+    <?php include('../html/footer.html'); ?> <!-- php pour inclure le footer à la page -->
 </body>
 
 </html>

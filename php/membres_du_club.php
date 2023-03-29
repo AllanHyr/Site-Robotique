@@ -8,10 +8,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="membres_club.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/membres_club.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans&family=Roboto&display=swap" rel="stylesheet" media="all"> <!--police d'écriture "Roboto" et "Public-sans" -->
@@ -20,7 +20,7 @@
 
 
 <body class="membreCont">
-    <?php include('navbar.html'); ?> <!-- php pour inclure le header à la page -->
+    <?php include('../html/navbar.html'); ?> <!-- php pour inclure le header à la page -->
     <main class="flex align-items flex-column">
         <div class="width-80">
             <div class="titreMembre"> <!-- Titre principale de la page -->
@@ -35,13 +35,13 @@
                         posuere non lacus.</p>
                     </div>
                     <div class="ImageMembre"> <!-- ajout de l'image -->
-                        <img class="imgMembre" src="assets/equipe.jpg" alt="Photo non contractuel des membres du club">
+                        <img class="imgMembre" src="../assets/equipe.jpg" alt="Photo non contractuel des membres du club">
                     </div>
                 </div>
 
                 <div class="horizontal background" id="second"> <!-- Deuxième zone de texte avec l'image en horizontal -->
                     <div class="ImageMembre"> <!-- ajout de l'image -->
-                        <img class="imgMembre" src="assets/directeur.jpeg" alt="Photo non contractuel du président du club">
+                        <img class="imgMembre" src="../assets/directeur.jpeg" alt="Photo non contractuel du président du club">
                     </div>
                     <div class="box">
                         <H3>Direction</H3> <!-- titre du paragraphe -->
@@ -53,7 +53,7 @@
             </div>
         </div>
     </main>
-    <?php include('footer.html'); ?> <!-- php pour inclure le footer à la page -->
+    <?php include('../html/footer.html'); ?> <!-- php pour inclure le footer à la page -->
 </body>
 
 </html>

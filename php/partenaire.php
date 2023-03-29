@@ -8,10 +8,10 @@
     <link rel="icon" type="image/x-icon" href="assets/Logo_transparent.png">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="partenaire.css">
-    <link rel="stylesheet" href="navbar.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/partenaire.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -20,7 +20,7 @@
 </head>
 
 <body class="partCont">
-    <?php include('navbar.html'); ?>
+    <?php include('../html/navbar.html'); ?>
     <main>
         <!-- Titre principale de la page -->
         <div class="titrePart">
@@ -40,7 +40,7 @@
                 </p>
             </div>
             <!-- image de poignée de main -->
-            <div class="imagePart"><img class="imgPart" src="assets/partenaire.png" alt="Image poignée de main"></div>
+            <div class="imagePart"><img class="imgPart" src="../assets/partenaire.png" alt="Image poignée de main"></div>
         </div>
         <HR WIDTH="35%">
         <!-- titre partenaire -->
@@ -51,19 +51,19 @@
         <div class="spons">
             <!-- premiere ligne -->
             <div class="imageSpons">
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="../assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="../assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="../assets/cesi.png" alt="Logo CESI"></div>
             </div>
             <!-- deuxième ligne -->
             <div class="imageSpons">
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
-                <div class="logoSpons"><img class="imgSpons" src="assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="../assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="../assets/cesi.png" alt="Logo CESI"></div>
+                <div class="logoSpons"><img class="imgSpons" src="../assets/cesi.png" alt="Logo CESI"></div>
             </div>
         </div>
     </main>
-    <?php include('footer.html'); ?>
+    <?php include('../html/footer.html'); ?>
 </body>
 
 </html>
